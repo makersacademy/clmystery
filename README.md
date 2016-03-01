@@ -38,17 +38,17 @@ Now with your Terminal at hand you're ready to start. A couple of ground rules f
 
 ## Step 1: Get the repo
 
-First you need to fork this repository. To do that click on the "Fork" button in the upper right corner of this page. Forking a repo creates a copy of the repository on your Github account. This gives you your own version of the project to experiment with.
+First you need to fork this [repository](TODO: link to the definition). To do that click on the "Fork" button in the upper right corner of this page. Forking a 'repo' creates a copy of the repository on your Github account. This gives you your own version of the project to experiment with.
 
 <TODO: screenshot of the Fork btn>
 
-Next you need to download those files to your machine so that you can edit them. To do that you need to clone your forked repository. See [Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
+Next you need to download those files to your machine so that you can edit them. To do that you need to clone your forked repository. See [this Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
 
 ## Step 2: Investigate
 
-Open a Terminal, go to the location of the files (using `cd` command), and start by reading the file 'step0'.
+Open a Terminal, go to the location of the files (using the `cd` command), and start by reading the file 'step0'.
 
-One way you can do this is with the command:
+One way you can do this is with following command:
 
     cat step0
 
@@ -61,4 +61,4 @@ Projects: [noahveltman.com](http://noahveltman.com)
 GitHub: [veltman](https://github.com/veltman)
 Twitter: [@veltman](https://twitter.com/veltman)
 
-Adapted by Makers Team
+Adapted by the Makers Team
