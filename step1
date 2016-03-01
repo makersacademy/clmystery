@@ -1,0 +1,21 @@
+<TODO: insert ASCII art for "clue">
+
+Reference: <TODO: insert reference for relative/absolute paths, less, touch, grep, >>>
+
+Now it's time to collect the clues! The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports. Take a look at the 'mystery/crimescene' file. It's quite large so use `less` command to view the contents of the file one screen at a time.
+
+
+#### Challenge ####
+
+How can you view the file in another directory without switching to the directory first? What is the difference between absolute paths and relative paths?
+
+###################
+
+
+You need to search for the lines in the file marked with the word 'CLUE'. Use the `grep` command to do that.
+
+Once you found all the clues it's time to save them to a separate file for the future reference.
+
+Use `touch` to create a file named 'clues.txt'. Use `>>` to save the output of the `grep` command to the 'clues.txt' file.
+
+That's the first step done! Open 'step1-git' to see how you can track your work with version control system.

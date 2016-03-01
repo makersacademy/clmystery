@@ -1,0 +1,17 @@
+<TODO: ASCII art for woman?>
+
+Reference: <TODO: reference find, *, ls with *, regex>
+
+You got 4 matches for the name Annabel. Only 2 of them are women so you can rule out the other 2. Another piece of information you have is their addresses. There is a 'streets' subdirectory in a 'mystery' directory with a list of files named after streets.
+
+#### Challenge ####
+
+See if you can find files matching street names for two remaining Annabels. Use the combinations of commands from the reference to the step 3 to do this.
+
+###################
+
+Take a look inside the files you've found. Remember you have a lane number for in your 'possible_witnesses.txt' too. See if you can figure out how you can find something useful in those files using this information.
+
+If you get stuck look into hint2.
+
+Move on to step4.

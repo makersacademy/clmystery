@@ -1,0 +1,14 @@
+<TODO: ASCII art of streets>
+
+Reference: <TODO: reference for head, tail, |>
+
+#### Challenge ####
+
+Use the combination of head, tail and | operator to view exactly the line you're interested in.
+
+##################
+
+
+Save the contents of this line in both address files to a file named 'interviews.txt', commit it and push to Github.
+
+Now let's move to step5.

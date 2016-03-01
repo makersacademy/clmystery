@@ -22,20 +22,21 @@ OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
 `OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
+Reference: <TODO reference for ls and flags, cd, cat, man>
+
 There's been a murder in Terminal City, and TCPD needs your help.
 
-To figure out whodunit, go to the 'mystery' subdirectory and start working from there.
+All the materials needed to figure out who did it are in the 'mystery' subdirectory. Take a look around to see what files are in the 'mystery' subdirectory. Use `ls mystery/` command.
 
-You'll want to start by collecting all the clues at the crime scene (the 'crimescene' file).
 
-The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports.
+### Challenge ####
 
-Fortunately the sergeant went through and marked the real clues with the word "CLUE" in all caps.
+`ls` command has several flags that can help you make sense of what the contents of a directory is. See if you can use `ls` with the flags to answer following questions:
 
-If you get stuck, open one of the hint files (from the CL, type 'cat hint1', 'cat hint2', etc.).
+1. What subdirectories does the 'mystery' directory contain? What files?
+2. Can you tell a size of the files in the 'mystery' directory?
 
-To check your answer or find out the solution, open the file 'solution' (from the CL, type 'cat solution').
+###################
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
 
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
+Once you answered the questions above open 'step1' file to start collecting the clues.

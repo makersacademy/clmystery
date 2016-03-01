@@ -1,0 +1,38 @@
+.------------------------------------------------------------------------------.
+|                             .mmMMMMMMMMMMMMMmm.                              |
+|                         .mMMMMMMMMMMMMMMMMMMMMMMMm.                          |
+|                      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       |
+|                    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     |
+|                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   |
+|                 MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM                  |
+|                MMMMMMMMM                           MMMMMMMMM                 |
+|               MMMMMMMMMM:                         :MMMMMMMMMM                |
+|              .MMMMMMMMMM                           MMMMMMMMMM.               |
+|              MMMMMMMMM"                             "MMMMMMMMM               |
+|              MMMMMMMMM                               MMMMMMMMM               |
+|              MMMMMMMMM                               MMMMMMMMM               |
+|              MMMMMMMMMM                             MMMMMMMMMM               |
+|              `MMMMMMMMMM                           MMMMMMMMMM`               |
+|               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
+|                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
+|                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  |
+|                  `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`                   |
+|                    `MMMMMm                 MMMMMMMMMMMM`                     |
+|                      `"MMMMMMMMM           MMMMMMMMM"`                       |
+|                         `"MMMMMM           MMMMMM"`                          |
+|                             `""M           M""`                              |
+'------------------------------------------------------------------------------'
+
+Reference: <TODO reference on git, github, git commit, git status, index, git push>
+
+To push your 'clues.txt' file to Github first add the file using `git add`.
+
+
+#### Challenge ####
+
+Is there a git command to view what changes you made in your repository? How can you tell what changes are going to be added to the next commit?
+
+###################
+
+
+Commit your changes using `git commit`. Don't forget to write a meaningful commit message! Now push the commit you've just made to Github using `git push`. All done! Open 'step2' to see what comes next.
