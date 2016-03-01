@@ -29,10 +29,10 @@ There's been a murder in Terminal City, and TCPD needs your help.
 
 Before you start skim through the required materials in [Command Line chapter](https://github.com/makersacademy/pre_course/blob/master/command_line.md) and [Version Control Chapter](https://github.com/makersacademy/pre_course/blob/master/version_control.md). Use it as a reference while working through the mystery.
 
-Now with you Terminal at hand you're ready to start. A couple of ground rules first:
+Now with your Terminal at hand you're ready to start. A couple of ground rules first:
 
-- **Don't use text editor**. You would find that command line is an incredibly powerful tool on its own.
-- You can use Google, PreCourse materials, [cheatsheet](./cheatsheet.md) or any materials available.
+- **Don't use a text editor**. You will find that the command line is an incredibly powerful tool on its own.
+- You can use Google, PreCourse materials, cheatsheets or any other materials available.
 
 # To the investigation!
 
