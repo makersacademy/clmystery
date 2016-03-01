@@ -1,0 +1,19 @@
+<TODO: ASCII wallet, card>
+
+Reference: <TODO: cat for concatenating multiple files, |, wc>
+
+The last clue that you have left is the list of memberships in the wallet found at the crimescene. All you need to do now is to see if one of the suspects has all these memberships.
+
+What files does the 'mystery/memberships' subdirectory contain? What is inside these files?
+
+#### Challenge ####
+
+Remember that the `cat` command was originally intended for concatenating files. Using this how can you tell if one suspect has all of the memberships?
+
+How many membership cards were in the wallet? Can you automatically count if the suspect has all of them using `wc`?
+
+###################
+
+If you got it down to one suspect check if he's the one by following the instructions in the 'solution' file.
+
+Congratulations! You caught the murderer!

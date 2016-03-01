@@ -1,0 +1,14 @@
+<TODO: eraser? journal?>
+
+Reference: <TODO: rm, diff, log>
+
+Now you're down to 4 suspects. First, remove all files you've created but 'clues' and 'suspects', you don't need them anymore.
+
+
+#### Challenge ####
+
+How can you tell what files you've added? Can you use git to see the changes between one commit and another?
+
+###################
+
+Move on to step 8.
