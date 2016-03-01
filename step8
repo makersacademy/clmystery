@@ -16,4 +16,4 @@ How many membership cards were in the wallet? Can you automatically count if the
 
 If you got it down to one suspect check if he's the one by following the instructions in the 'solution' file.
 
-Congratulations! You caught the murderer!
+Congratulations! You caught the murderer! Save his name in the 'jail.txt' file, commit and push to Github.
