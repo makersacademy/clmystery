@@ -46,6 +46,10 @@ Next you need to download those files to your machine so that you can edit them.
 
 ## Step 2: Investigate
 
+Each step of your investigation will contain the reference at the top. This reference contains the description of the commands you will need to complete the step. You can view them in the Terminal or by navigating to a file on Github.
+
+Reference: ./reference/getting_started.md
+
 Open a Terminal, go to the location of the files (using the `cd` command), and start by reading the file 'step0'.
 
 One way you can do this is with following command:
