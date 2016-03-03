@@ -1,5 +1,3 @@
-<TODO: ASCII art for clues or woman or whatnot>
-
 Take a look inside your 'clues.txt'. What does the third clue tell you? What are the files in the 'mystery' directory you should look next based on this clue?
 
 
@@ -14,6 +12,6 @@ Now you know all the commands you need to find this mysterious woman.
 
 Create a file called 'possible_witnesses.txt' containing the list of all women matching the barista's description and their addresses. Commit and push the file to Github.
 
-If you got stuck look inside 'hint1'. <TODO: update hint1>
+If you get stuck look inside 'hint1'
 
 Once you've done that go to step3.
