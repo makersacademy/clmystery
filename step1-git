@@ -23,7 +23,7 @@
 |                             `""M           M""`                              |
 '------------------------------------------------------------------------------'
 
-Reference: <TODO reference on git, github, git commit, git status, index, git push>
+Reference: ./reference/step1-git.md
 
 To push your 'clues.txt' file to Github first add the file using `git add`.
 

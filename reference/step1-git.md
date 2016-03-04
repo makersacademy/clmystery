@@ -1,4 +1,8 @@
-This reference contains only the commands you will need to complete Step 1. To learn more about what Git is look into the [./git.md](Git walkthrough). Use `man git` to see what Git creators have to say about it.
+This reference contains only the commands you will need to complete Step 1.
+
+Take some time to read through the [./git.md](Git walkthrough) and make yourself familiar with the important Git concepts.
+
+Use `man git` to see what Git creators have to say about it.
 
 # `git --help COMMAND`
 
