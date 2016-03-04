@@ -12,7 +12,7 @@ So change current directory to "mystery" you can type in `cd /Users/johndoe/clmy
 
 `.` in the path refers to the current directory. `..` to the parent directory. If you don't prefix the path with anything (like `cs mystery`) command line will consider this to be a relative path from the current directory.
 
-# Viewing large files
+# `less`
 
 `less` command lets you view a file one screen at a time.
 
@@ -20,15 +20,13 @@ Using the "less" command, you're able to scroll up and down with your keyboard t
 
 Use `man less` to learn more about the `less` command.
 
-# Creating files
-
-While changing directories and listing contents is useful, how do we actually create files?
+# `touch`
 
 `touch FILENAME`
 
 The "touch" command creates an empty file with a given name.
 
-# Searching in files
+# `grep`
 
 The `grep` command allows you to search for a certain word or a phrase within a file. The `grep` command takes two parameters: the first is what you want to search for and the second is what files you want to search through.
 
@@ -38,7 +36,7 @@ The `grep` command allows you to search for a certain word or a phrase within a 
 
 Use `man grep` to learn more about how to use `grep`.
 
-# Saving the output to a file
+# `>`
 
 `>` operator allows you to save the output of a command to a file instead of printing it to a screen. For example with `grep` you can save the results of your search like this:
 

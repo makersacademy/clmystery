@@ -1,5 +1,3 @@
-<TODO: ASCII art for branches>
-
 Reference: <TODO: branch, checkout>
 
-To get to this step checkout the 'step-5' branch and try to visit this file again.
+To get to this step `git checkout` the 'step-5' branch and try to visit this file again.

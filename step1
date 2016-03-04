@@ -1,25 +1,3 @@
-            ______
-         .-'      `-.
-       .'            `.
-      /                \
-     ;                 ;`
-     |      CLUE       |;
-     ;                 ;|
-     '\               / ;
-      \`.           .' /
-       `.`-._____.-' .'
-         / /`_____.-'
-        / / /
-       / / /
-      / / /
-     / / /
-    / / /
-   / / /
-  / / /
- / / /
-/ / /
-\/_/
-
 Reference: ./reference/step1.md
 
 Now it's time to collect the clues! The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports. Take a look at the 'mystery/crimescene' file. It's quite large so use `less` command to view the contents of the file one screen at a time.
@@ -36,6 +14,6 @@ You need to search for the lines in the file marked with the word 'CLUE'. Use th
 
 Once you found all the clues it's time to save them to a separate file for the future reference.
 
-Use `touch` to create a file named 'clues.txt'. Use `>>` to save the output of the `grep` command to the 'clues.txt' file.
+Use `touch` to create a file named 'clues.txt'. Use `>` to save the output of the `grep` command to the 'clues.txt' file.
 
 That's the first step done! Open 'step1-git' to see how you can track your work with version control system.
