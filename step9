@@ -1,0 +1,5 @@
+Reference: sudo, chown, chmod
+
+Save the murderer's name to the file 'jail.txt'. Change permissions on the file so that everyone else but you are only allowed to read this file. We don't want anyone to swap this guy for someone innocent on his way to jail!
+
+Commit 'jail.txt' and push to Github.
