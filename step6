@@ -1,4 +1,4 @@
-Reference: <TODO grep with flags, |, pull requests>
+Reference: ./reference/step6.md
 
 Now you have more information to identify the perpetrator. Peek into 'mystery/vehicles' file. What information does it contain? Look into your 'clues.txt' again - is there anything else you can search for in the vehicles record?
 
