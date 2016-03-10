@@ -23,16 +23,22 @@
 |                             `""M           M""`                              |
 '------------------------------------------------------------------------------'
 
-Reference: ./reference/step1-git.md
+Reference: ./detective_handbook/step1-git.md
 
-To push your 'clues.txt' file to Github first add the file using `git add`.
+A good detective always backs up their case files. You never know when an 'accident' will befall a filing cabinet whilst someone is under investigation...
 
-
-#### Challenge ####
-
-Is there a git command to view what changes you made in your repository? How can you tell what changes are going to be added to the next commit?
-
-###################
+To push (upload) your 'clues.txt' file to Github, first "add" the file using `git add`.
 
 
-Commit your changes using `git commit`. Don't forget to write a meaningful commit message! Now push the commit you've just made to Github using `git push`. All done! Open 'step2' to see what comes next.
+############ Challenge ###############
+
+Is there a git command to view what changes you've made in your repository?
+
+How can you tell what changes are going to be added to the next commit?
+
+######################################
+
+
+Commit your changes using `git commit`. Don't forget to write a meaningful commit message (you'll thank yourself in future)!
+
+Now push the commit you've just made to Github using `git push`. All done! Read 'step2' to see what comes next.

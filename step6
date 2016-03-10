@@ -1,12 +1,13 @@
-Reference: ./reference/step6.md
+Reference: ./detective_handbook/step6.md
 
 Now you have more information to identify the perpetrator. Peek into 'mystery/vehicles' file. What information does it contain? Look into your 'clues.txt' again - is there anything else you can search for in the vehicles record?
 
-#### Challenge ####
+############ Challenge ###############
 
 Now you need to search for multiple keywords in one file. How can you combine `grep` with flags and pipe operator to filter vehicles record for car model, color, license plate number and suspect's height?
 
-###################
+######################################
+
 
 Save the list of suspect into 'suspects.txt', commit and push to Github.
 

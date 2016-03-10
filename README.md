@@ -27,7 +27,7 @@ The Command Line Murders
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
-Before you start skim through the required materials in [Command Line chapter](https://github.com/makersacademy/pre_course/blob/master/command_line.md) and [Version Control Chapter](https://github.com/makersacademy/pre_course/blob/master/version_control.md). Use it as a reference while working through the mystery.
+Before you start skim through the required materials in [Command Line chapter](https://github.com/makersacademy/pre_course/blob/master/command_line.md) and [Version Control Chapter](https://github.com/makersacademy/pre_course/blob/master/version_control.md). Use it as a reference while working through the case.
 
 Now with your Terminal at hand you're ready to start. A couple of ground rules first:
 
@@ -46,9 +46,9 @@ Next you need to download those files to your machine so that you can edit them.
 
 ## Step 2: Investigate
 
-Each step of your investigation will contain the reference at the top. This reference contains the description of the commands you will need to complete the step. You can view them in the Terminal or by navigating to a file on Github.
+Each step of your investigation will contain a reference to the **Detective Handbook** at the top. Each page of the Detective Handbook contains the description of the commands you will need to complete that particular step. You can view them in the Terminal.
 
-Reference: ./reference/getting_started.md
+Reference: ./detective_handbook/getting_started.md
 
 Open a Terminal, go to the location of the files (using the `cd` command), and start by reading the file 'step0'.
 
@@ -65,4 +65,4 @@ Projects: [noahveltman.com](http://noahveltman.com)
 GitHub: [veltman](https://github.com/veltman)
 Twitter: [@veltman](https://twitter.com/veltman)
 
-Adapted by the Makers Team
+Adapted by the Makers Academy Team

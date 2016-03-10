@@ -1,4 +1,4 @@
-Try poking around what's in a file by using the 'head' command:
+Try poking around the contents of a file by using the 'head' command:
 
   head -n 20 people
 

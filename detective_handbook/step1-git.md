@@ -28,4 +28,4 @@ Git status shows what changes you have made since the last commit. The output of
 
 # `git push`
 
-After you committed the changes they still only exist on your machine. To "share" the work you need to push the changes to a remote repository. If you cloned the repository from Github you already have a remote repository setup. When you push your changes they will be pushed to Github. Type `git push` to push your commits.
+After you have committed the changes, they still only exist on your machine. To "share" the work you need to push the changes to a remote repository. If you cloned the repository from Github you already have a remote repository setup. When you push your changes they will be pushed to Github. Type `git push` to push your commits.
