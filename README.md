@@ -42,7 +42,7 @@ First you need to fork this [repository](https://help.github.com/articles/github
 
 ![Fork](./img/fork_button.jpg)
 
-Next you need to download those files to your machine so that you can edit them. To do that you need to clone your forked repository. See [this Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
+Next you need to download those files to your machine so that you can edit them. To do that you must clone your forked repository. See [this Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
 
 ## Step 2: Investigate
 
