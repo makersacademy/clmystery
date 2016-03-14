@@ -46,10 +46,11 @@ Next you need to download those files to your machine so that you can edit them.
 
 ## Step 2: Investigate
 
-Each step of your investigation will contain a reference to the **Detective Handbook** at the top. Each page of the Detective Handbook contains the description of the commands you will need to complete that particular step. You can view them in the Terminal.
+Each step of your investigation will contain a reference to the **Detective Handbook** at the top. Each page of the Detective Handbook contains the description of the commands you will need to complete that particular step. You can view them in the Terminal:
 
+```bash
 Reference: ./detective_handbook/getting_started.md
-
+```
 Open a Terminal, go to the location of the files (using the `cd` command), and start by reading the file 'step0'.
 
 One way you can do this is with following command:
