@@ -3,10 +3,17 @@ Color: Blue
 Owner: Brian Boyer
 Height: 6'6"
 
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+ 
 License Plate L337539
 Make: Honda
 Color: Blue
 Owner: Aron Pilhofer
+Height: 5'3"
 
 License Plate L3373U9
 Color: Blue
@@ -17,11 +24,13 @@ License Plate L337369
 Make: Honda
 Color: Blue
 Owner: Heather Billings
+Height: 5'2"
 
 License Plate L337DV9
 Make: Honda
 Color: Blue
 Owner: Joe Germuska
+Height: 6'2"
 
 License Plate L3375A9
 Make: Honda
@@ -33,5 +42,6 @@ License Plate L337WR9
 Make: Honda
 Color: Blue
 Owner: Jacqui Maher’
+Height: 6'2"
 
-Suspects included as the witness may have been wrong about the make of the car.
+Suspects included as the witness may have been wrong about the make of the car or CCTV may have the wrong height.
