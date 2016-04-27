@@ -1,11 +1,17 @@
 <<<<<<< .merge_file_VQjC1V
 Reference: ./detective_handbook/step5.md
 
-You're concerned that the investigation has been compromised. You use an old detective trick to cover your tracks.
+You found two witness interview files. Take a look inside both of them and save any useful information into a new file called 'interview_info.txt'.
 
+<<<<<<< HEAD
 To recover your 'step5' file, use the `git checkout` command to check out the 'step-5' branch, and try to view this file again.
 =======
 Reference: ./reference/step5.md
 
 You found two witness intreview files. Take a look inside both of them and save any useful information that comes up into 'interview_info.txt'. Commit the file but don't push it yet! first checkout the 'master' branch again and merge 'step-5' branch into it.
 >>>>>>> .merge_file_ariemg
+=======
+You feel satisfied that you have covered your tracks - time to consolidate your files. Commit the file but DON'T PUSH IT YET!
+
+First checkout back into the 'master' branch, and merge the 'step-5' branch into 'master'.
+>>>>>>> step-5
