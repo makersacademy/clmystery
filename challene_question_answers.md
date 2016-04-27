@@ -10,6 +10,12 @@
 ### Step2
 1	The tail utility displays the contents of file or, by default, its standard input, to the standard output. The display begins at a byte.
 
-###Step3 
-1.	```$ head -n 40 streets/Hart_Place | tail -1 ``` -> "SEE INTERVIEW #47246024"
-2.	```$ head -n 179 streets/Buckingham_Place | tail -1 ``` -> "SEE INTERVIEW #699607"
+### Step3 
+```$ head -n 40 streets/Hart_Place | tail -1 ```
+	 -> "SEE INTERVIEW #47246024"
+```$ head -n 179 streets/Buckingham_Place | tail -1 ``` 
+	-> "SEE INTERVIEW #699607"
+
+### Step4
+``` head -n 40 streets/Hart_Place | tail -1 > interviews.txt ```
+```  head -n 179 streets/Buckingham_Place | tail -1 >> interviews.txt ```
