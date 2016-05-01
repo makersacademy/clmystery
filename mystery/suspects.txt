@@ -5,6 +5,8 @@ Owner: Erika Owens
 Height: 6'5"
 Weight: 220 lbs
 --
+NOTE: rule out Erika as witness described suspect as male.
+--
 --
 License Plate L337DV9
 Make: Honda
@@ -28,3 +30,8 @@ Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
 Weight: 130 lbs
+--
+NOTE: rule out Jacqui as witness described suspect as male
+--
+--
+POTENTIAL SUSPECTS: (1) Jeremy Bowers and (2) Joe Germuska
