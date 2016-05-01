@@ -1,0 +1,44 @@
+grep "CLUE" crimescene
+
+(Aquire Clues)
+
+grep "Annabel" people
+
+(Find people with name of Annabel)
+
+cd /Users/rockway/develop/command-line-mystery/mystery/streets
+
+head -n 40 Hart_Place | tail -n 1
+
+(Search based on Annabel addresses)
+
+head -n 179 Buckingham_Place | tail -n 1
+
+(Search based on Annabel addresses)
+
+cd /Users/rockway/develop/command-line-mystery/mystery/interviews
+
+cat interview-47246024
+
+(Search based on Address info)
+
+cat interview-699607
+
+(Search based on Address info)
+
+cd /Users/rockway/develop/command-line-mystery/mystery
+
+grep -A 5 -E 'L337.*9' vehicles | grep -B 1 -A 4 "Make: Honda" | grep -B 2 -A 3 "Color: Blue" | grep -B 4 -A 1 "Height: 6'"
+
+(Search for (1) Licence Plate beginning with 'L337' and ending in '9', (2) Make: Honda, (3) Colour: Blue and (4) Height: 6' or above)
+
+cd /Users/rockway/develop/command-line-mystery/mystery/memberships
+
+cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers" | wc
+
+(Search to see if name has memberships with all 4 organisations revealed in clues and then uses word count to count the number of matching memberships, i.e. if total memberships equals 4 then the suspect is found)
+
+cat AAA Delta_SkyMiles Terminal_City_Library
+Museum_of_Bash_History | grep "Joe Germuska" | wc
+
+(Search to see if name has memberships in all and then uses word count to count the number of matching memberships, i.e. if total memberships equals 4 then suspect is found)
