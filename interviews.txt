@@ -1,3 +1,0 @@
-SEE INTERVIEW #699607
-SEE INTERVIEW #47246024
-Note: used sed -n 40p Hart_place >> interview_clues.txt to extract Line 40 from the streets file. Same for the other address. Will try the recommended method now as well
