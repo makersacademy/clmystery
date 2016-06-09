@@ -1,0 +1,12 @@
+Suspect: 
+Jeremy Bowers
+
+Memberships:
+
+mystery/memberships/./Terminal_City_Library
+mystery/memberships/./Museum_of_Bash_History
+mystery/memberships/./AAA
+mystery/memberships/./Delta_SkyMiles
+
+Command used: grep -Ril "jeremy bowers" mystery/memberships/. >> jail.txt
+Command used: echo "Jeremy Bowers" | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded && echo CORRECT\! GREAT WORK, GUMSHOE. || echo SORRY, TRY AGAIN.

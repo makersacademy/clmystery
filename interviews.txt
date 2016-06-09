@@ -1,5 +1,0 @@
-SEE INTERVIEW #47246024
-SEE INTERVIEW #699607
-
-Command used: awk 'NR==40' mystery/streets/Hart_Place > interviews.txt
-Command used: awk 'NR==179' mystery/streets/Buckingham_Place >> interviews.txt
