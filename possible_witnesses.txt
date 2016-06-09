@@ -1,2 +1,4 @@
 Annabel Sun	F	26	Hart Place, line 40
 Annabel Church	F	38	Buckingham Place, line 179
+
+(Note: grep '\<Annabel.*F\>' people > possible_witnesses.txt used to separate women from men and from men whose last name starts with F)
