@@ -1,0 +1,4 @@
+Jeremy Bowers
+echo Jeremy Bowers | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded && echo CORRECT\! G
+REAT WORK, GUMSHOE. || echo SORRY, TRY AGAIN.                                                                                                          
+CORRECT! GREAT WORK, GUMSHOE.
