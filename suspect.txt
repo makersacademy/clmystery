@@ -1,0 +1,3 @@
+   4 Jeremy Bowers
+ found using - egrep -woirh 'erika owens|joe germuska|jeremy bowers|jackui maher' ./mystery/memberships | sort | uniq -c | grep '^ *4 ' > suspect.txt
+
