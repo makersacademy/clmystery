@@ -1,0 +1,7 @@
+I used the following code to generate the below:
+
+find ./streets -name "Hart_Place" | sed -n '40'p streets/Hart_Place >> interviews.txt
+find ./streets -name “Buckingham_Place” | sed -n ‘179’p streets/Buckingham_Place >> interviews.txt
+
+SEE INTERVIEW #47246024
+SEE INTERVIEW #699607
