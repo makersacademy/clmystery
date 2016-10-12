@@ -1,8 +1,4 @@
 Owner: Erika Owens
-Owner: Matt Waite
-Owner: Brian Boyer
-Owner: Al Shaw
-Owner: Miranda Mulligan
 Owner: Joe Germuska
 Owner: Jeremy Bowers
 Owner: Jacqui Maher
