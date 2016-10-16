@@ -1,5 +1,4 @@
-Color: Blue
-Erika Owens
-Joe Germuska
-Jeremy Bowers
-Jacqui Maher
+Erika Owens NO
+Joe Germuska NO
+Jeremy Bowers M YES
+Jacqui Maher F NO
