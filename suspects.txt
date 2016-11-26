@@ -1,7 +1,3 @@
-Owner: Erika Owens
+Joe Germuska
 
-Owner: Joe Germuska
-
-Owner: Jeremy Bowers
-
-Owner: Jacqui Maher
+Jeremy Bowers
