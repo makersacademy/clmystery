@@ -1,0 +1,10 @@
+Joe Germuska
+Jeremy Bowers
+
+$ cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska" | wc -l
+2
+$ cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers" | wc -l
+4
+
+So Jeremy Bowers is the remaining suspect.
+
