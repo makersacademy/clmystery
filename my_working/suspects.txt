@@ -5,21 +5,6 @@
 45-533-7170-Height: 6'5"
 46-534-7171-Weight: 220 lbs
 --
-137:1377-17743-License Plate L337539
-138-1378-17744:Make: Honda
-139-1379:17745-Color: Blue
-140-1380-17746-Owner: Aron Pilhofer
-141-1381-17747-Height: 5'3"
-142-1382-17748-Weight: 198 lbs
---
-201:1833-23826-License Plate L337369
-202-1834-23827:Make: Honda
-203-1835:23828-Color: Blue
-204-1836-23829-Owner: Heather Billings
-205-1837-23830-Height: 5'2"
-206-1838-23831-Weight: 244 lbs
---
-217:1889-24834-License Plate L337DV9
 218-1890-24835:Make: Honda
 219-1891:24836-Color: Blue
 220-1892-24837-Owner: Joe Germuska
