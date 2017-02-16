@@ -2,14 +2,6 @@ Owner: Erika Owens
 Height: 6'5"
 Weight: 220 lbs
 --
-Owner: Aron Pilhofer
-Height: 5'3"
-Weight: 198 lbs
---
-Owner: Heather Billings
-Height: 5'2"
-Weight: 244 lbs
---
 Owner: Joe Germuska
 Height: 6'2"
 Weight: 164 lbs
