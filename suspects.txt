@@ -1,0 +1,12 @@
+Owner: Erika Owens
+Height: 6'5"
+--
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+Owner: Jeremy Bowers
+Height: 6'1"
+--
+Owner: Jacqui Maher
+Height: 6'2"
