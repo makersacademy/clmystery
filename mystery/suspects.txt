@@ -3,19 +3,14 @@ Make: Honda
 Color: Blue
 Owner: Jeremy Bowers
 Height: 6'1
-
-License Plate L337WR9
-Make: Honda
-Color: Blue
-Owner: Jacqui Maher
-Height: 6'2
-Weight: 130 lbs
+Weight: 204 lbs
 
 License Plate L337DV9
 Make: Honda
 Color: Blue
 Owner: Joe Germuska
 Height: 6'2
+Weight: 164 lbs
 
 License Plate L337WR9
 Make: Honda
@@ -29,3 +24,4 @@ Make: Honda
 Color: Blue
 Owner: Aron Pilhofer
 Height: 5'3
+Weight: 198 lbs
