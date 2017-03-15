@@ -7,24 +7,6 @@ Weight: 220 lbs
 
 --
 --
-License Plate L337539
-Make: Honda
-Color: Blue
-Owner: Aron Pilhofer
-Height: 5'3"
-Weight: 198 lbs
-
---
---
-License Plate L337369
-Make: Honda
-Color: Blue
-Owner: Heather Billings
-Height: 5'2"
-Weight: 244 lbs
-
---
---
 License Plate L337DV9
 Make: Honda
 Color: Blue
@@ -49,4 +31,3 @@ Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
 Weight: 130 lbs
-
