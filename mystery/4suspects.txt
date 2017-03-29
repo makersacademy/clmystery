@@ -1,0 +1,24 @@
+29-     2	Make: Honda
+48-     3	Color: Blue
+67-     4	Owner: Erika Owens
+93:     5	Height: 6'5"
+113-     6	--
+123-     7	License Plate L337539
+152-     8	Make: Honda
+--
+405-    20	Make: Honda
+424-    21	Color: Blue
+443-    22	Owner: Joe Germuska
+470:    23	Height: 6'2"
+490-    24	--
+500-    25	License Plate L3375A9
+529-    26	Make: Honda
+548-    27	Color: Blue
+567-    28	Owner: Jeremy Bowers
+595:    29	Height: 6'1"
+615-    30	--
+625-    31	License Plate L337WR9
+654-    32	Make: Honda
+673-    33	Color: Blue
+692-    34	Owner: Jacqui Maher
+719:    35	Height: 6'2"
