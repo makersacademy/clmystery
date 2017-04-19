@@ -1,0 +1,15 @@
+Owner: Erika Owens -> female name
+Height: 6'5"
+Weight: 220 lbs
+--
+Owner: Joe Germuska -> has 2 memberships
+Height: 6'2"
+Weight: 164 lbs
+--
+Owner: Jeremy Bowers -> has all the memberships!
+Height: 6'1"
+Weight: 204 lbs
+--
+Owner: Jacqui Maher -> female name
+Height: 6'2"
+Weight: 130 lbs
