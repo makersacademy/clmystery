@@ -4,7 +4,6 @@ Color: Blue
 Owner: Erika Owens
 Height: 6'5"
 --
-Height: 6'6"
 --
 License Plate L337DV9
 Make: Honda
