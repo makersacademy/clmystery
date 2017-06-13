@@ -1,0 +1,3 @@
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
