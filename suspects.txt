@@ -1,0 +1,20 @@
+vehicles:License Plate L337P89
+vehicles-Make: Honda
+vehicles-Color: Teal
+vehicles-Owner: Mike Bostock
+vehicles-Height: 6'4"
+vehicles-Weight: 173 lbs
+
+vehicles:License Plate L337DV9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Joe Germuska
+vehicles-Height: 6'2"
+vehicles-Weight: 164 lbs
+
+vehicles:License Plate L3375A9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Jeremy Bowers
+vehicles-Height: 6'1"
+vehicles-Weight: 204 lbs
