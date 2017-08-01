@@ -1,0 +1,24 @@
+Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+>
+> However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with L337 and ends with 9
+
+vehicles:License Plate L337P89
+vehicles-Make: Honda
+vehicles-Color: Teal
+vehicles-Owner: Mike Bostock
+vehicles-Height: 6'4"
+vehicles-Weight: 173 lbs
+
+vehicles:License Plate L337DV9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Joe Germuska
+vehicles-Height: 6'2"
+vehicles-Weight: 164 lbs
+
+vehicles:License Plate L3375A9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Jeremy Bowers
+vehicles-Height: 6'1"
+vehicles-Weight: 204 lbs
