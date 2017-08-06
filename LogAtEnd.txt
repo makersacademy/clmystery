@@ -1,0 +1,953 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Writing objects: 100% (4/4), 658 bytes | 0 bytes/s, done.
+Total 4 (delta 2), reused 1 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To github.com:rorybot/clmystery.git
+   42c6b11..d7fb466  master -> master
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:19:35]
+→ gif diff
+zsh: command not found: gif
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:19:52]
+→ git diff
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:19:56]
+→ git log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:20:33]
+→ less step7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:30:05]
+→ git log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:30:12]
+→ less step7
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:30:17]
+→ less step7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:30:50]
+→ HEAD^
+zsh: no matches found: HEAD^
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:30:55]
+→ git diff HEAD^
+
+
+
+
+
+
+
+
+
+
+zsh: no matches found: HEAD^
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:31:05]
+→ git diff HEAD^ HEAD
+zsh: no matches found: HEAD^
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:31:09]
+→ git diff @~..@
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:32:08]
+→ less step7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:32:15]
+→ less step8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:32:27]
+→ ls ./mystery/memberships
+AAA                     Costco                  Fitness_Galaxy          REI                     TCSU_Alumni_Association United_MileagePlus
+AAdvantage              Delta_SkyMiles          Museum_of_Bash_History  Rotary_Club             Terminal_City_Library
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:32:37]
+→ less ./mystery/memberships AAA
+./mystery/memberships is a directory
+AAA: No such file or directory
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:33:02]
+→ less ./mystery/memberships/AAA
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:33:11]
+→ less step7
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:33:24]
+→ less step8
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:34:14]
+→ less clues.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:34:36]
+→ less step8
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:35:09]
+→ less clues.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:35:20]
+→ less clues.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [13:35:51]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→ cat ./mystery/memberships/AAA .mystery/memberships/Delta_SkyMiles .mystery/memberships/Terminal_City_Library /mystery/memberships/Museum_of_Bash_History > suspect.txt
+cat: .mystery/memberships/Delta_SkyMiles: No such file or directory
+cat: .mystery/memberships/Terminal_City_Library: No such file or directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cat: /mystery/memberships/Museum_of_Bash_History: No such file or directory
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:37:37]
+→ cat ./mystery/memberships/AAA ./mystery/memberships/Delta_SkyMiles ./mystery/memberships/Terminal_City_Library ./mystery/memberships/Museum_of_Bash_History > final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:38:05]
+→ less final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:38:11]
+→ less step8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:38:37]
+→ wc final_suspect.txt
+    5177   10354   76230 final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:38:45]
+→ grep 'Joe' final_suspect.txt
+Joe Germuska
+Joel Giordano
+Joel Tverdohlib
+Joel Kammerichs
+Joel Csernoviczki
+Joel Scanlan
+Joel Tverdohlib
+Joe Germuska
+Joel Giordano
+Joel Kammerichs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Joel Scanlan
+Joel Csernoviczki
+Joel Tverdohlib
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:39:04]
+→ ls
+
+
+
+
+
+
+
+
+
+
+
+
+
+LICENSE.md         clues.txt          final_suspect.txt  img                step0              step2              step5              step8              suspects.txt
+README.md          detective_handbook hint1              mystery            step1              step3              step6              step9
+clues              encoded            hint2              solution           step1-git          step4              step7              suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:39:14]
+→ rm suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:39:23]
+→ less suspects.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:39:30]
+→ less suspects.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:39:36]
+→ grep 'Jeremy' final_suspect.txt
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:39:57]
+→ less ./detective_handbook/step8.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:40:44]
+→ wc -l final_suspect
+wc: final_suspect: open: No such file or directory
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:40:55]
+→ wc -l final_suspect.txt
+    5177 final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:41:12]
+→ grep suspects.txt final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:41:44]
+→ grep -f suspects.txt final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:42:20]
+→ less suspects.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:42:30]
+→ less suspects.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:42:33]
+→ less ./detective_handbook/step8.md
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:43:45]
+→ ls -l . | wc -l
+      25
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:43:51]
+→ ls -l ./mystery/memberships | wc -l
+      12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:44:40]
+→ ls -l ./mystery/memberships | wc -l | cat
+      12
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:44:50]
+→ ls -l ./mystery/memberships | wc -l
+      12
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:45:01]
+→ ls -l . | wc -l
+      25
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:45:04]
+→ less ./detective_handbook/step8.md
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:45:26]
+→ ls -l
+total 304
+-rw-r--r--   1 MacBook  staff   1073  6 Aug 10:56 LICENSE.md
+-rw-r--r--   1 MacBook  staff   3799  6 Aug 12:10 README.md
+-rw-r--r--   1 MacBook  staff      0  6 Aug 13:15 clues
+-rw-r--r--   1 MacBook  staff    919  6 Aug 13:16 clues.txt
+drwxr-xr-x  14 MacBook  staff    476  6 Aug 12:10 detective_handbook
+-rw-r--r--   1 MacBook  staff   1064  6 Aug 10:56 encoded
+-rw-r--r--   1 MacBook  staff  76230  6 Aug 13:38 final_suspect.txt
+-rw-r--r--   1 MacBook  staff    203  6 Aug 10:56 hint1
+-rw-r--r--   1 MacBook  staff     65  6 Aug 10:56 hint2
+drwxr-xr-x   3 MacBook  staff    102  6 Aug 10:56 img
+drwxr-xr-x   8 MacBook  staff    272  6 Aug 12:18 mystery
+-rw-r--r--   1 MacBook  staff   1085  6 Aug 10:56 solution
+-rw-r--r--   1 MacBook  staff   2076  6 Aug 10:56 step0
+-rw-r--r--   1 MacBook  staff   1018  6 Aug 10:56 step1
+-rw-r--r--   1 MacBook  staff   2706  6 Aug 10:56 step1-git
+-rw-r--r--   1 MacBook  staff    763  6 Aug 10:56 step2
+-rw-r--r--   1 MacBook  staff    869  6 Aug 10:56 step3
+-rw-r--r--   1 MacBook  staff    480  6 Aug 10:56 step4
+-rw-r--r--   1 MacBook  staff    286  6 Aug 12:10 step5
+-rw-r--r--   1 MacBook  staff    928  6 Aug 12:10 step6
+-rw-r--r--   1 MacBook  staff    512  6 Aug 12:10 step7
+-rw-r--r--   1 MacBook  staff    924  6 Aug 12:10 step8
+-rw-r--r--   1 MacBook  staff   1125  6 Aug 12:10 step9
+-rw-r--r--   1 MacBook  staff    159  6 Aug 13:05 suspects.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:45:28]
+→ less ./detective_handbook/step8.md
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:46:01]
+→ grep 'Jeremy' final_suspect.txt
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:46:08]
+→ ls
+LICENSE.md         clues.txt          final_suspect.txt  img                step0              step2              step5              step8
+README.md          detective_handbook hint1              mystery            step1              step3              step6              step9
+clues              encoded            hint2              solution           step1-git          step4              step7              suspects.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:46:15]
+→ grep -A 5 'L337' ./*/vehicles | grep -A 1 -B 4 "Height: 6" | grep -A 4 -B 1 "Honda" | grep -B 2 -A 3 "Blue"
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weight: 220 lbs
+--
+--
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+License Plate L3375A9
+Make: Honda
+Color: Blue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+--
+--
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:46:43]
+→ grep 'Erika' final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:46:54]
+→ grep 'Jacqui' final_suspect.txt
+Jacqui Maher
+Jacqui Maher
+Jacqui Maher
+Jacqui Maher
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:47:03]
+→ grep 'Jeremy' final_suspect.txt
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:47:14]
+→ less step8
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:47:43]
+→ cat ./mystery/memberships
+cat: ./mystery/memberships: Is a directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:48:00]
+→ cat ./mystery/memberships > blibble
+cat: ./mystery/memberships: Is a directory
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:48:09]
+→ less step8
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:48:29]
+→ less step8
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:48:37]
+→ grep -A 5 'L337' ./*/vehicles | grep -A 1 -B 4 "Height: 6" | grep -A 4 -B 1 "Honda" | grep -B 2 -A 3 "Blue"
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+--
+--
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+--
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+--
+--
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:49:04]
+→ less step8
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:49:55]
+→ grep 'Jeremy' ./mystery/memberships
+grep: ./mystery/memberships: Is a directory
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:50:08]
+→ grep 'Jeremy' ./mystery/memberships/*.txt
+zsh: no matches found: ./mystery/memberships/*.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:50:14]
+→ grep -R 'Jeremy' ./mystery/memberships/
+./mystery/memberships//AAA:Jeremy Bowers
+./mystery/memberships//Delta_SkyMiles:Jeremy Bowers
+./mystery/memberships//Museum_of_Bash_History:Jeremy Bowers
+./mystery/memberships//Terminal_City_Library:Jeremy Bowers
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:50:57]
+→ grep -R 'Joe' ./mystery/memberships/
+./mystery/memberships//AAA:Joe Germuska
+./mystery/memberships//AAA:Joel Giordano
+./mystery/memberships//AAA:Joel Tverdohlib
+./mystery/memberships//AAdvantage:Joel Giordano
+./mystery/memberships//Costco:Joel Rogowska
+./mystery/memberships//Costco:Joel Simon
+./mystery/memberships//Delta_SkyMiles:Joel Kammerichs
+./mystery/memberships//Delta_SkyMiles:Joel Csernoviczki
+./mystery/memberships//Delta_SkyMiles:Joel Scanlan
+./mystery/memberships//Fitness_Galaxy:Joerg Kikuchi
+./mystery/memberships//Fitness_Galaxy:Aretha Joensen
+./mystery/memberships//Fitness_Galaxy:Joel Scanlan
+./mystery/memberships//Fitness_Galaxy:Joel Simon
+./mystery/memberships//Fitness_Galaxy:Joel Tverdohlib
+./mystery/memberships//Museum_of_Bash_History:Joel Csernoviczki
+./mystery/memberships//Museum_of_Bash_History:Joel Tverdohlib
+./mystery/memberships//REI:Joel Tverdohlib
+./mystery/memberships//REI:Joel Giordano
+./mystery/memberships//REI:Aretha Joensen
+./mystery/memberships//REI:Joerg Kikuchi
+./mystery/memberships//Rotary_Club:Aretha Joensen
+./mystery/memberships//Rotary_Club:Joel Tverdohlib
+./mystery/memberships//Rotary_Club:Joel Rogowska
+./mystery/memberships//Rotary_Club:Joel Csernoviczki
+./mystery/memberships//Rotary_Club:Joel Kammerichs
+./mystery/memberships//TCSU_Alumni_Association:Joel Rogowska
+./mystery/memberships//TCSU_Alumni_Association:Aretha Joensen
+./mystery/memberships//TCSU_Alumni_Association:Joel Simon
+./mystery/memberships//Terminal_City_Library:Joel Tverdohlib
+./mystery/memberships//Terminal_City_Library:Joe Germuska
+./mystery/memberships//Terminal_City_Library:Joel Giordano
+
+./mystery/memberships//Terminal_City_Library:Joel Kammerichs
+./mystery/memberships//Terminal_City_Library:Joel Scanlan
+./mystery/memberships//United_MileagePlus:Joel Kammerichs
+./mystery/memberships//United_MileagePlus:Joel Rogowska
+./mystery/memberships//United_MileagePlus:Joel Simon
+./mystery/memberships//United_MileagePlus:Aretha Joensen
+./mystery/memberships//United_MileagePlus:Joel Scanlan
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:51:05]
+→ grep -R 'Erika' ./mystery/memberships/
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:51:17]
+→ grep -R 'Jeremy' ./mystery/memberships/
+
+
+
+./mystery/memberships//AAA:Jeremy Bowers
+./mystery/memberships//Delta_SkyMiles:Jeremy Bowers
+./mystery/memberships//Museum_of_Bash_History:Jeremy Bowers
+./mystery/memberships//Terminal_City_Library:Jeremy Bowers
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:51:25]
+→ grep -R 'Jacqui' ./mystery/memberships/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+./mystery/memberships//AAA:Jacqui Maher
+./mystery/memberships//Delta_SkyMiles:Jacqui Maher
+./mystery/memberships//Museum_of_Bash_History:Jacqui Maher
+./mystery/memberships//Terminal_City_Library:Jacqui Maher
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:51:32]
+→ grep -R 'Jacqui\|Jeremy' ./mystery/memberships
+./mystery/memberships/AAA:Jeremy Bowers
+./mystery/memberships/AAA:Jacqui Maher
+./mystery/memberships/Delta_SkyMiles:Jacqui Maher
+./mystery/memberships/Delta_SkyMiles:Jeremy Bowers
+./mystery/memberships/Museum_of_Bash_History:Jeremy Bowers
+./mystery/memberships/Museum_of_Bash_History:Jacqui Maher
+./mystery/memberships/Terminal_City_Library:Jacqui Maher
+./mystery/memberships/Terminal_City_Library:Jeremy Bowers
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:52:10]
+→ cat "Jeremy Bowers" > final_suspect.txt
+cat: Jeremy Bowers: No such file or directory
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:52:37]
+→ echo "Jeremy Bowers" > final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:52:57]
+→ less final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:53:03]
+→ ls
+LICENSE.md         clues              encoded            hint2              solution           step1-git          step4              step7              suspects.txt
+README.md          clues.txt          final_suspect.txt  img                step0              step2              step5              step8
+blibble            detective_handbook hint1              mystery            step1              step3              step6              step9
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:53:06]
+→ echo "Both he and Jacqui appear 4 times in these files, and both he and Jacqui have all the cards of the suspect, but he is male as was said... dunno why Step 7 or whatever said I should have 4 suspects at that point, unless it was ignoring male criteria, and then I'm supposed to bring that in now? Or between then and now?" >> final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:54:36]
+→ less final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:54:47]
+→ solution
+zsh: command not found: solution
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:54:54]
+→ less solution
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:55:19]
+→ echo "Jeremy Bowers" | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded && echo CORRECT\! GREAT WORK, GUMSHOE. || echo SORRY, TRY AGAIN
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [13:55:47]
+→ git add ..
+fatal: ..: '..' is outside repository
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [14:01:19]
+→ git add .
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [14:01:23]
+→ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   blibble
+	new file:   final_suspect.txt
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [14:01:26]
+→ rm blibble
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [14:01:30]
+→ git add .
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [14:01:32]
+→ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   final_suspect.txt
+
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ✖︎ [14:01:34]
+→ git commit -m 'My Final Suspect!'
+[master 46f3fb4] My Final Suspect!
+ 1 file changed, 2 insertions(+)
+ create mode 100644 final_suspect.txt
+
+# MacBook at MacBooks-MacBook-Pro.local in ~/MurderMystery on git:master ● [14:01:46]
+→
