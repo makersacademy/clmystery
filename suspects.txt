@@ -1,5 +1,3 @@
-Owner: Katie Park
-Owner: Mike Bostock
 Owner: Erika Owens
 Owner: Joe Germuska
 Owner: Jeremy Bowers
