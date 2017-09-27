@@ -1,4 +1,4 @@
-The Command Line Murders
+The Command Line Murder
 ========================
 
     .OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
@@ -27,7 +27,7 @@ The Command Line Murders
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
-Before you start, skim through the required materials in [Command Line chapter](https://github.com/makersacademy/pre_course/blob/master/command_line.md) and [Version Control Chapter](https://github.com/makersacademy/pre_course/blob/master/version_control.md). Use it as a reference while working through the case.
+Before you start, skim through the required materials in the Command Line and Version Control sections of your PreCourse repo. Use it as a reference while working through the case.
 
 Now with your Terminal at hand you're ready to start. A couple of ground rules first:
 
