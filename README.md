@@ -1,3 +1,5 @@
+The following exercise is a fun exploration of BASH commands I completed in preparation for Makers Academy.
+
 The Command Line Murder
 ========================
 
