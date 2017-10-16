@@ -34,7 +34,7 @@ Now with your Terminal at hand you're ready to start. A couple of ground rules f
 - **Don't use a text editor**. You will find that the command line is an incredibly powerful tool on its own.
 - You can use Google, PreCourse materials, cheatsheets or any other materials available.
 
-# To the investigation!
+# To the investigation
 
 ## Step 1: Get the repo
 
