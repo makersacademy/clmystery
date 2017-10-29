@@ -2,7 +2,4 @@ Owner: Erika Owens
 Owner: Joe Germuska
 Owner: Jeremy Bowers
 Owner: Jacqui Maher
-Erika Owens	F	56	Trapelo Street, line 98
-Joe Germuska	M	65	Plainfield Street, line 275
-Jeremy Bowers	M	34	Dunstable Road, line 284
-Jacqui Maher	F	40	Andover Road, line 224
+
