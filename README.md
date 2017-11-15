@@ -1,3 +1,5 @@
+[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+
 The Command Line Murder
 ========================
 
