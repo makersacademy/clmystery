@@ -1,0 +1,1 @@
+git log tells me the changes to repository and git status shows me what are next to be added at the next git commit
