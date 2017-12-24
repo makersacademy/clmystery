@@ -1,0 +1,15 @@
+Color: Blue
+Owner: Erika Owens -- female -unlikely
+Height: 6'5"
+--
+Color: Blue
+Owner: Joe Germuska -- likely
+Height: 6'2"
+--
+Color: Blue
+Owner: Jeremy Bowers -- likely
+Height: 6'1"
+--
+Color: Blue
+Owner: Jacqui Maher -- female - unlikely
+Height: 6'2"
