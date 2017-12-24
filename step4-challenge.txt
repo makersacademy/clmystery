@@ -1,1 +1,0 @@
-head -40 ./mystery/streets/hart_place | tail -1 and head -179 ./mystery/streets/buckingham_place | tail -1
