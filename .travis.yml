@@ -1,2 +1,0 @@
-script:
-  - find ./ -name "jail.txt" | xargs less | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded
