@@ -6,9 +6,9 @@ Now you're down to 4 suspects. First, destroy all the files you've created excep
 ############ Challenge ###############
 
 The phone rings unexpectedly and you lose your train of thought. How can you remind yourself which files you have changed or added? Maybe git can help.
-
+#Use git log
 Can you use git to see the changes between one commit and another?
-
+#Use git log -p
 ######################################
 
 
