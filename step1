@@ -6,7 +6,7 @@ Now it's time to collect the clues! The officers on the scene are pretty meticul
 ############ Challenge ###############
 
 How can you view a file in different directory without switching to that directory first? What is the difference between absolute paths and relative paths?
-# Using ls?
+#Using ls?
 #Absolute path: the specifying location of a file or directory from the root directory, a complete path from start of actual filesyste.
 #Relative path: path related to the present working directory
 
