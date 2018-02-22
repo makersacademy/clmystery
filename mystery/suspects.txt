@@ -1,3 +1,6 @@
+grep -A5 "License Plate L337" vehicles | grep -A4 -B1 "Make: Honda" | grep -A3 -B2 "Color: Blue" | grep -A1 -B4 "Height: 6"
+License Plate L337QE9
+
 License Plate L337WR9
 Make: Honda
 Color: Blue
@@ -25,4 +28,34 @@ Color: Blue
 Owner: Erika Owens
 Height: 6'5"
 Weight: 220 lbs
+
+..... with a bit different method:
+grep -A5 "License Plate L337" -a  ./vehicles | grep -A4 -B1 "Make: Honda" | grep -A3 -B2 "Color: Blue" | grep -A1 -B4 "Height: 6" 
+
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+--
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+--
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
 
