@@ -3,3 +3,6 @@ Jeremy Bowers
 Jeremy Bowers
 Jeremy Bowers
 Jeremy Bowers
+
+"ec2-user:~/environment/Projects/clmystery (subbranch) $ echo "Jeremy Bowers" | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded && echo CORRECT\! GREAT WORK, GUMSHOE. || echo SORRY, TRY AGAIN                                                                                                                                          
+CORRECT! GREAT WORK, GUMSHOE."
