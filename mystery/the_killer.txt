@@ -1,0 +1,5 @@
+ec2-user:~/environment/Projects/clmystery/mystery/memberships (subbranch) $ cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
+Jeremy Bowers
