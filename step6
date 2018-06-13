@@ -1,21 +1,16 @@
 Reference: ./detective_handbook/step6.md
 
-Now you have more information to identify the perpetrator. Peek into the './mystery/vehicles' file. What information does it contain? Cross-reference it with your 'clues.txt' again - is there anything else you could search for in the vehicles record?
+Now you have more information to identify the perpetrator. Peek into 'mystery/vehicles' file. What information does it contain? Look into your 'clues.txt' again - is there anything else you can search for in the vehicles record?
 
 ############ Challenge ###############
 
-Now you need to search for multiple keywords in one file. How can you combine `grep` with flags and the pipe operator ('|') to filter the vehicle records for:
-
-* car model
-* car color
-* license plate number
-* suspect's height
+Now you need to search for multiple keywords in one file. How can you combine `grep` with flags and pipe operator to filter vehicles record for car model, color, license plate number and suspect's height?
 
 ######################################
 
 
-Save the list of suspects into a new file called 'suspects.txt', commit and push to Github.
+Save the list of suspect into 'suspects.txt', commit and push to Github.
 
-You're very happy with the progress of your investigation - you feel like you are close to identifying the culprit. Make a pull request to the original 'clmystery' repository to report your progress to The Chief.
+Looks like you've got quite far now. Make a pull request to the original 'clmystery' repository to let us know about your progress.
 
 Move on to step 7.

@@ -1,19 +1,5 @@
-Reference: ./detective_handbook/step9.md
+Reference: sudo, chown, chmod
 
-Congratulations! You caught the murderer!
+Save the murderer's name to the file 'jail.txt'. Change permissions on the file so that everyone else but you are only allowed to read this file. We don't want anyone to swap this guy for someone innocent on his way to jail!
 
-To close the investigation and let the courts do their work, save his name in a file called 'jail.txt'.
-
-Change permissions on the file so that you are the only one able to edit it (everyone else can read the contents). There was a case last summer where a convict was switched out for an innocent man on the way to jail - and we don't want that happening again!
-
-Make sure that 'jail.txt' contains only the name of the convict with no extra spaces! Don't copy-and-paste the name, type it in manually. This way our jailkeeper robot can check if you've caught the right guy.
-
-Add & commit 'jail.txt' and push to Github. You can now relax and wait for that promotion, Detective!
-
-
-_______   _    _   ______          ______   _   _   _____
-|__   __| | |  | | |  ____|        |  ____| | \ | | |  __ \
-   | |    | |__| | | |__           | |__    |  \| | | |  | |
-   | |    |  __  | |  __|          |  __|   | . ` | | |  | |
-   | |    | |  | | | |____         | |____  | |\  | | |__| |
-   |_|    |_|  |_| |______|        |______| |_| \_| |_____/
+Commit 'jail.txt' and push to Github.
