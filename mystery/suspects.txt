@@ -1,15 +1,3 @@
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Aron Pilhofer
-vehicles-Height: 5'3"
-vehicles-Weight: 198 lbs
---
-vehicles:License Plate L3373U9
---
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Heather Billings
-vehicles-Height: 5'2"
 vehicles-Weight: 244 lbs
 --
 vehicles:License Plate L337DV9
