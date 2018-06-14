@@ -1,0 +1,34 @@
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Aron Pilhofer
+vehicles-Height: 5'3"
+vehicles-Weight: 198 lbs
+--
+vehicles:License Plate L3373U9
+--
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Heather Billings
+vehicles-Height: 5'2"
+vehicles-Weight: 244 lbs
+--
+vehicles:License Plate L337DV9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Joe Germuska
+vehicles-Height: 6'2"
+vehicles-Weight: 164 lbs
+--
+vehicles:License Plate L3375A9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Jeremy Bowers
+vehicles-Height: 6'1"
+vehicles-Weight: 204 lbs
+--
+vehicles:License Plate L337WR9
+vehicles-Make: Honda
+vehicles-Color: Blue
+vehicles-Owner: Jacqui Maher
+vehicles-Height: 6'2"
+vehicles-Weight: 130 lbs
