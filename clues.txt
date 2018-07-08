@@ -1,0 +1,2 @@
+In step one, I pushed this .txt file to my GitHub profile. In the challenge I had to execute a ‘git log’ command to view what commits had already been made. The challenge asked how I can tell what will be in the next commit, in Terminal, it is highlighted in green. 
+
