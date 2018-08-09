@@ -1,11 +1,13 @@
+7166:License Plate L337QE9
+7167-Make: Honda
 7168-Color: Blue
 7169-Owner: Erika Owens
 7170-Height: 6'5"
 7171-Weight: 220 lbs
 --
-17743:License Plate L337539
-17744-Make: Honda
 --
+24834:License Plate L337DV9
+24835-Make: Honda
 24836-Color: Blue
 24837-Owner: Joe Germuska
 24838-Height: 6'2"
