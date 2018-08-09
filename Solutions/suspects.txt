@@ -1,5 +1,3 @@
-7166:License Plate L337QE9
-7167-Make: Honda
 7168-Color: Blue
 7169-Owner: Erika Owens
 7170-Height: 6'5"
@@ -7,20 +5,7 @@
 --
 17743:License Plate L337539
 17744-Make: Honda
-17745-Color: Blue
-17746-Owner: Aron Pilhofer
-17747-Height: 5'3"
-17748-Weight: 198 lbs
 --
-23826:License Plate L337369
-23827-Make: Honda
-23828-Color: Blue
-23829-Owner: Heather Billings
-23830-Height: 5'2"
-23831-Weight: 244 lbs
---
-24834:License Plate L337DV9
-24835-Make: Honda
 24836-Color: Blue
 24837-Owner: Joe Germuska
 24838-Height: 6'2"
