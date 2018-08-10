@@ -1,2 +1,4 @@
 Step 1: grep CLUE mystery/crimescene > clues.txt
 Step 2: grep "Annabel.*\sF\s" mystery/people > possible_witnesses.txt
+Step 3: find mystery/streets -name "*Buckingham*"
+        find mystery/streets -name "*Hart*"
