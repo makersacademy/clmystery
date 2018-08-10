@@ -1,7 +1,0 @@
-Step 1: grep CLUE mystery/crimescene > clues.txt
-Step 2: grep "Annabel.*\sF\s" mystery/people > possible_witnesses.txt
-Step 3: find mystery/streets -name "*Buckingham*"
-        find mystery/streets -name "*Hart*"
-Step 4: head -179 mystery/streets/Buckingham_Place | tail -1 >> interviews.txt
-        head -40 mystery/streets/Hart_Place | tail -1 >> interviews.txt
-Step 6: grep -A 6 'License Plate L337..9' mystery/vehicles | grep -A 5 'Make: Honda' | grep -A 4 'Color: Blue' | grep -B 1 'Height: 6' | grep 'Owner' > suspects.txt
