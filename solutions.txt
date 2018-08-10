@@ -1,0 +1,2 @@
+Step 1: grep CLUE mystery/crimescene > clues.txt
+Step 2: grep "Annabel.*\sF\s" mystery/people > possible_witnesses.txt
