@@ -1,26 +1,29 @@
 .------------------------------------------------------------------------------.
-|                             .mmMMMMMMMMMMMMMmm.                              |
-|                         .mMMMMMMMMMMMMMMMMMMMMMMMm.                          |
-|                      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       |
-|                    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     |
-|                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   |
-|                 MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM                  |
-|                MMMMMMMMM                           MMMMMMMMM                 |
-|               MMMMMMMMMM:                         :MMMMMMMMMM                |
-|              .MMMMMMMMMM                           MMMMMMMMMM.               |
-|              MMMMMMMMM"                             "MMMMMMMMM               |
-|              MMMMMMMMM                               MMMMMMMMM               |
-|              MMMMMMMMM                               MMMMMMMMM               |
-|              MMMMMMMMMM                             MMMMMMMMMM               |
-|              `MMMMMMMMMM                           MMMMMMMMMM`               |
-|               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
-|                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
-|                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  |
-|                  `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`                   |
-|                    `MMMMMm                 MMMMMMMMMMMM`                     |
-|                      `"MMMMMMMMM           MMMMMMMMM"`                       |
-|                         `"MMMMMM           MMMMMM"`                          |
-|                             `""M           M""`                              |
+|              MMMMMMMMMMMMMMMMMMMWKo.    'oXWMMMMMMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMMMMMWKo.        .oXWMMMMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMMMMMXc            .oKWMMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMWKOXWKo.            .oKMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMWKo. 'dXWKo.            .oKWMMMMMMMMMMM              |
+|              MMMMMMMMMWKo.     'dXWKkxxdc.        .oKWMMMMMMMMM              |
+|              MMMMMMMWKl.         :XMMMMMW0'         .oKWMMMMMMM              |
+|              MMMMMWKl.           '0MMMMMMNc           .oKMMMMMM              |
+|              MMMWKo.              ,kNMMMWWKo.           .oKWMMM              |
+|              MWKo.                 .kMMNxdXWKo.           .oKWM              |
+|              Kl.                   .kMMX: 'dXWKdll:.        .oK              |
+|              .                     .kMMX:   ,0MMMMWK:         '              |
+|                                    .kMMX:   .dWMMMMMd.                       |
+|              d'                    .kMMX:    'xXWWXk'        .o              |
+|              MXo.                  .kMMX:      .,,.        .oKW              |
+|              MMMKo.                'OMMNc                .oKWMM              |
+|              MMMMMXo.            .cKWMMMXo.            .oKWMMMM              |
+|              MMMMMMWKo.          '0MMMMMMX:          .oKWMMMMMM              |
+|              MMMMMMMMWKo.        .oXMMMMNx.        .oKWMMMMMMMM              |
+|              MMMMMMMMMMMKo.        ':clc,        .oKWMMMMMMMMMM              |
+|              MMMMMMMMMMMMMXo.                  .oKWMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMMWKo.              .oKWMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMMMMWXo.          .oKWMMMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMMMMMMWXo'      .oKWMMMMMMMMMMMMMMMMMM              |
+|              MMMMMMMMMMMMMMMMMMMMW0:    ;OWMMMMMMMMMMMMMMMMMMMM              |
 '------------------------------------------------------------------------------'
 
 Reference: ./detective_handbook/step1-git.md
