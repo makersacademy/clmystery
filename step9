@@ -8,7 +8,9 @@ Change permissions on the file so that you are the only one able to edit it (eve
 
 Make sure that 'jail.txt' contains only the name of the convict with no extra spaces! Don't copy-and-paste the name, type it in manually. This way our jailkeeper robot can check if you've caught the right guy.
 
-Add & commit 'jail.txt' and push to Github. You can now relax and wait for that promotion, Detective!
+Add & commit 'jail.txt' and push to Github, then open a pull request to submit your answer. If you have completed the challenge successfully you will see a green tick on your pull request.
+
+You can now relax and wait for that promotion, Detective!
 
 
 _______   _    _   ______          ______   _   _   _____
