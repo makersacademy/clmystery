@@ -1,2 +1,0 @@
-./mystery/streets//Hart_Place
-./mystery/streets//Buckingham_Place
