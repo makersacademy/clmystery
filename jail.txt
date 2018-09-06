@@ -1,10 +1,1 @@
-Owner: Jeremy Bowers
-Height: 6'1"
-Weight: 204 lbs
-
-Has been arrested on suspicion of murder. A witness has placed him fleeing the scene of the crime in his
-vehicle :
-
-License Plate L3375A9
-Make: Honda
-Color: Blue
+Jeremy Bowers
