@@ -51,5 +51,5 @@ So you know how to view and how to read the permissions of a file but how do you
 `chmod u+w readme.txt`
 
 Here, "u" stands for user ("g" for group, "o" for others and "a" for all), "+" means that we're adding the permission ("-" means we're removing it) and "w" stands for "write". You can combine several permissions. For example, to remove read and execute permissions from all users:
-
+        
 `chmod a-rx readme.txt`
