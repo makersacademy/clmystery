@@ -1,49 +1,15 @@
-Make: Honda
 Color: Blue
 Owner: Erika Owens
 Height: 6'5"
 --
-Make: Honda
-Color: Blue
-Owner: Martyna Kirkbride
-Height: 6'3"
---
-Make: Honda
-Color: Blue
-Owner: Lubomir Frank
-Height: 6'3"
---
-Make: Honda
-Color: Blue
-Owner: Pape Kantarci
-Height: 6'1"
---
-Make: Honda
-Color: Blue
-Owner: Alberto Pedersen
-Height: 6'4"
---
-Make: Honda
 Color: Blue
 Owner: Joe Germuska
 Height: 6'2"
 --
-Make: Honda
-Color: Blue
-Owner: Marharyta Willmott
-Height: 6'0"
---
-Make: Honda
 Color: Blue
 Owner: Jeremy Bowers
 Height: 6'1"
 --
-Make: Honda
-Color: Blue
-Owner: Darae Charlos
-Height: 6'2"
---
-Make: Honda
 Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
