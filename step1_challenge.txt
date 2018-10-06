@@ -1,5 +1,0 @@
-How can you view a file in different directory without switching to that directory first?
-You can refer to the file by the relative or absolute path.
-What is the difference between absolute paths and relative paths?
-Absolute paths are the entire filepath from the root to the final subfolder, and they start with /.
-Relative paths are a partial filepath relative to the folder where you currently are. They start with ./.

@@ -1,1 +1,0 @@
-Step 6 challenge met with grep -A 4 L337 ./mystery/vehicles | grep -A 3 -B 1 Honda |grep -A 2 -B 2 Blue | grep -B 4 "Height: 6" >> suspects.txt
