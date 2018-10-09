@@ -1,19 +1,6 @@
 Owner: Erika Owens
 Height: 6'5"
 --
-Owner: Matt Waite
-Height: 6'1"
---
-Owner: Brian Boyer
-Height: 6'6"
---
-Owner: Al Shaw
-Height: 6'5"
---
-Owner: Miranda Mulligan
-Height: 6'6"
-Weight: 156 lbs
---
 Owner: Joe Germuska
 Height: 6'2"
 Weight: 164 lbs
