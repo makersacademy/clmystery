@@ -1,0 +1,76 @@
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator
+ is a tall male, at least 6'.
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change,
+and membership cards for AAA, Delta SkyMiles, the local library, and the Museum
+of Bash History. The cards are totally untraceable and have no name, for some reason.
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right
+before they heard the shots. The name on her latte was Annabel, she had blond spiky hair
+ and a New Zealand accent.
+Simons-MBP:mystery simon$ cat suspects.txt
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+--
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+--
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+--
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Simons-MBP:mystery simon$ grep "life" filename | wc -l
+grep: filename: No such file or directory
+       0
+Simons-MBP:mystery simon$ grep "Jeremy Bowers" memberships/AAA | wc -l
+       1
+Simons-MBP:mystery simon$ grep "Joe Germuska" memberships/AAA | wc -l
+       1
+Simons-MBP:mystery simon$ grep "Erica Owens" memberships/AAA | wc -l
+       0
+Simons-MBP:mystery simon$ grep "Jacqui Maher" memberships/AAA | wc -l
+       1
+Simons-MBP:mystery simon$ grep "Jacqui Maher" memberships/Delta SkyMiles | wc -l
+grep: memberships/Delta: No such file or directory
+grep: SkyMiles: No such file or directory
+       0
+Simons-MBP:mystery simon$ grep "Jacqui Maher" memberships/"Delta SkyMiles" | wc -l
+grep: memberships/Delta SkyMiles: No such file or directory
+       0
+Simons-MBP:mystery simon$ grep "Jacqui Maher" memberships/"DeltaSkyMiles" | wc -l
+grep: memberships/DeltaSkyMiles: No such file or directory
+       0
+Simons-MBP:mystery simon$ ls
+clues.txt		interviews		memberships		possible_witnesses.txt	suspects.txt
+crimescene		interviews.txt		people			streets			vehicles
+Simons-MBP:mystery simon$ cd memberships
+Simons-MBP:memberships simon$ ls
+AAA			Costco			Fitness_Galaxy		REI			TCSU_Alumni_Association	United_MileagePlus
+AAdvantage		Delta_SkyMiles		Museum_of_Bash_History	Rotary_Club		Terminal_City_Library
+Simons-MBP:memberships simon$ grep "Jacqui Maher" Delta_SkyMiles | wc -l
+       1
+Simons-MBP:memberships simon$ grep "Joe Germuska" Delta_SkyMiles | wc -l
+       0
+Simons-MBP:memberships simon$ grep "Jeremy Bowers" Delta_SkyMiles | wc -l
+       1
+Simons-MBP:memberships simon$ grep "Jeremy Bowers" Terminal_City_Library | wc -l
+       1
+Simons-MBP:memberships simon$ grep "Jacqui Maher" Terminal_City_Library | wc -l
+       1
+Simons-MBP:memberships simon$ grep "Museum_of_Bash_History" Terminal_City_Library | wc -l
+       0
+Simons-MBP:memberships simon$ grep "Jacqui Maher" Museum_of_Bash_History | wc -l
+       1
+Simons-MBP:memberships simon$ grep "Jeremy Bowers" Museum_of_Bash_History | wc -l
+       1
