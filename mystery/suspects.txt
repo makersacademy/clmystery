@@ -1,19 +1,6 @@
-Make: Honda
-Color: Blue
-Owner: Erika Owens
---
-Make: Honda
-Color: Blue
-Owner: Aron Pilhofer
---
-Make: Honda
-Color: Blue
-Owner: Heather Billings
---
-Make: Honda
-Color: Blue
-Owner: Joe Germuska
---
+ONLY SUSPECTS WITH ALL FOUR MEMBERSHIPS
+-went to lists of people got address and to determine which interview to review
+
 Make: Honda
 Color: Blue
 Owner: Jeremy Bowers
