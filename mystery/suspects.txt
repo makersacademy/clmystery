@@ -6,7 +6,6 @@ Owner: Joe Germuska
 Height: 6'2"
 Weight: 164 lbs
 --
---
 License Plate L3375A9
 Make: Honda
 Color: Blue
