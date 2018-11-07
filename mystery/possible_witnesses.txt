@@ -1,7 +1,3 @@
 NAME            GENDER  AGE     ADDRESS
 Annabel Sun     F       26      Hart Place, line 40
 Annabel Church  F       38      Buckingham Place, line 179
-Anabel Dominguez	F	67	Monument Avenue, line 248
-Anabel Mesfioui	F	44	Lansdowne Street, line 16
-Anabelle Ismail	F	72	Forest Place, line 168
-Anabel Kal	F	25	Cedar Lane Way, line 15
