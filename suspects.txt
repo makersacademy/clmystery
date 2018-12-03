@@ -6,22 +6,6 @@ Height: 6'5"
 Weight: 220 lbs
 --
 --
-License Plate L337539
-Make: Honda
-Color: Blue
-Owner: Aron Pilhofer
-Height: 5'3"
-Weight: 198 lbs
---
---
-License Plate L337369
-Make: Honda
-Color: Blue
-Owner: Heather Billings
-Height: 5'2"
-Weight: 244 lbs
---
---
 License Plate L337DV9
 Make: Honda
 Color: Blue
@@ -54,28 +38,13 @@ Height: 6'5"
 Weight: 220 lbs
 --
 --
-License Plate L337539
-Make: Honda
-Color: Blue
-Owner: Aron Pilhofer
-Height: 5'3"
-Weight: 198 lbs
---
---
-License Plate L337369
-Make: Honda
-Color: Blue
-Owner: Heather Billings
-Height: 5'2"
-Weight: 244 lbs
---
---
 License Plate L337DV9
 Make: Honda
 Color: Blue
 Owner: Joe Germuska
 Height: 6'2"
 Weight: 164 lbs
+Memberships: AAA, Terminal City Library
 --
 --
 License Plate L3375A9
@@ -84,6 +53,7 @@ Color: Blue
 Owner: Jeremy Bowers
 Height: 6'1"
 Weight: 204 lbs
+Memberships: AAA, Terminal City Library, Museum of Bash History, Delta SkyMiles
 --
 --
 License Plate L337WR9
@@ -92,4 +62,4 @@ Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
 Weight: 130 lbs
-
+Memberships: AAA, Terminal City Library, Museum of Bash History, Delta SkyMiles
