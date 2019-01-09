@@ -1,2 +1,1 @@
-SEE INTERVIEW #47246024
-SEE INTERVIEW #699607
+grep -A 5 "L337" ./mystery/vehicles| grep -A 5 "Honda" | grep -A 5 "Blue" | grep -B 2 "6'" | grep "Owner"
