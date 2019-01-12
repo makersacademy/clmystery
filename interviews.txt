@@ -1,4 +1,0 @@
-# head -40 mystery/streets/Hart*|tail -1 > interviews.txt
-# head -179 mystery/streets/Buckingham*|tail -1 >> interviews.txt  
-SEE INTERVIEW #47246024
-SEE INTERVIEW #699607
