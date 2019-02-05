@@ -5,7 +5,7 @@
 Before we dive into using the command line, it's important to discuss the distinction between using a UNIX-based computer (Mac, any Linux including Ubuntu, etc.) or a PC running Windows. In these lessons, we're assuming you're using a Mac as it's the most common platform among web developers. With the technologies we cover at Makers – a Mac is the tool of choice. If absolutely required, you can use Ubuntu, but you may encounter minor problems along the way that we won't usually cover at Makers. This does not imply that Mac is somehow superior to Linux when it comes to web development. It is simply different, so the instructions provided for a Mac may not always work on a different system.
 
 If you don't have access to either a Mac or Linux machine you may find it easier to work with a cloud hosted solution such as [C9](https://aws.amazon.com/cloud9/?origin=c9io).  This might run a little slower, but the C9 terminal is a good substitute and can be used from PCs and even Chromebooks.
-
+  
 ## What is the command line?
 
 So what is the command line exactly? The command line is how we interact directly with the underlying code of our computer. Every computer has some way of accessing the command line. In fact, the command line is the primary interface that your computer uses. The graphical user interface (all the beautiful windows you can open) is just a more accessible way of using your computer that is often but not always available. For example, servers (computers in a data center that host websites etc.) often don't have graphical interface at all, so command line is the only way to work with them.
