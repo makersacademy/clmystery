@@ -1,4 +1,4 @@
-Reference: ./detective_handbook/step3.md
+lsReference: ./detective_handbook/step3.md
 
 You found 4 matches for the name 'Annabel'. Only 2 of them are women so you can rule out the remainder. Another piece of information you have is their address. There is a 'streets' subdirectory in the 'mystery' directory with a list of files named after streets.
 
