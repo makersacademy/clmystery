@@ -25,9 +25,12 @@
 
 Reference: ./detective_handbook/step1-git.md
 
-A good detective always backs up their case files. You never know when an 'accident' will befall a filing cabinet whilst someone is under investigation...
+A good detective always backs up their case files. You never know when an
+'accident' will befall a filing cabinet whilst someone is under
+investigation...
 
-To push (upload) your 'clues.txt' file to Github, first "add" the file using `git add`.
+To push (upload) your 'clues.txt' file to Github, first "add" the file using
+`git add`.
 
 
 ############ Challenge ###############
@@ -39,6 +42,8 @@ How can you tell what changes are going to be added to the next commit?
 ######################################
 
 
-Commit your changes using `git commit`. Don't forget to write a meaningful commit message (you'll thank yourself in future)!
+Commit your changes using `git commit`. Don't forget to write a meaningful
+commit message (you'll thank yourself in future)!
 
-Now push the commit you've just made to Github using `git push`. All done! Read 'step2' to see what comes next.
+Now push the commit you've just made to Github using `git push`. All done! Read
+'step2' to see what comes next.
