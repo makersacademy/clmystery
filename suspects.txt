@@ -1,23 +1,39 @@
 Make: Honda
 Color: Blue
 Owner: Erika Owens
+Height: 6'5"
 --
-Make: Honda
+Make: Toyota
 Color: Blue
-Owner: Aron Pilhofer
+Owner: Matt Waite
+Height: 6'1"
 --
-Make: Honda
+Make: Jaguar
 Color: Blue
-Owner: Heather Billings
+Owner: Brian Boyer
+Height: 6'6"
+--
+Make: Fiat
+Color: Blue
+Owner: Al Shaw
+Height: 6'5"
+--
+Make: Ford
+Color: Blue
+Owner: Miranda Mulligan
+Height: 6'6"
 --
 Make: Honda
 Color: Blue
 Owner: Joe Germuska
+Height: 6'2"
 --
 Make: Honda
 Color: Blue
 Owner: Jeremy Bowers
+Height: 6'1"
 --
 Make: Honda
 Color: Blue
 Owner: Jacqui Maher
+Height: 6'2"
