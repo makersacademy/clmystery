@@ -2,11 +2,14 @@ Reference: ./detective_handbook/step4.md
 
 ############ Challenge ###############
 
-Use the combination of `head`, `tail` and `|` operators to view exactly the line you're interested in.
+Use the combination of `head`, `tail` and `|` operators to view exactly the
+line you're interested in.
 
 ######################################
 
 
-You have two addresses to investigate. Create a file for your reference called `interviews.txt`. Find the relevant line in each of the two address files, and save the contents to 'interviews.txt'. Commit it and push to Github.
+You have two addresses to investigate. Create a file for your reference called
+`interviews.txt`. Find the relevant line in each of the two address files, and
+save the contents to 'interviews.txt'. Commit it and push to Github.
 
 Now let's move to step5.
