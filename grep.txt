@@ -1,0 +1,1 @@
+grep -A 5 "License Plate L337*" ./mystery/vehicles | grep -A 4 -B1 "Make: Honda" | grep -A 3 -B 2 "Color: Blue"
