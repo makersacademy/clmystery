@@ -1,0 +1,3 @@
+SEE INTERVIEW #47246024
+SEE INTERVIEW #699607
+You can use a combination of the head and tail commands to find a single line of text e.g githead -40 ./mystery/streets/Hart*Place | tail -1 > interviews.txt
