@@ -1,11 +1,6 @@
-Owner: Katie Park
-Height: 6'2"
---
+
 Owner: Mike Bostock
 Height: 6'4"
---
-Owner: Erika Owens
-Height: 6'5"
 --
 Owner: Joe Germuska
 Height: 6'2"
