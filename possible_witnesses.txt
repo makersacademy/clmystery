@@ -1,2 +1,0 @@
-./mystery/people:278:Annabel Sun	F	26	Hart Place, line 40
-./mystery/people:1670:Annabel Church	F	38	Buckingham Place, line 179
