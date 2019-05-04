@@ -1,4 +1,4 @@
-# `rm`
+ste# `rm`
 
 `rm` is the command for removing files. Type `rm FILENAME` to delete a file permanently. Type `rm -r DIRECTORY_NAME` to remove a directory.
 
