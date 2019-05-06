@@ -16,7 +16,7 @@ Now you need to search for multiple keywords in one file. How can you combine `g
 
 Save the list of suspects into a new file called 'suspects.txt', commit and push to Github.
 
-Make a pull request to the original 'makersacademy/clmystery' repository to report your progress to The Chief. Find out more about opening a pull request here: hhttps://help.github.com/en/articles/creating-a-pull-request-from-a-fork
+Make a pull request to the original 'makersacademy/clmystery' repository to report your progress to The Chief. Find out more about opening a pull request here: https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
 
 You're very happy with the progress of your investigation - you feel like you are close to identifying the culprit.
 
