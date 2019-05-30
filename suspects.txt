@@ -1,0 +1,28 @@
+Owner: Katie Park
+Height: 6'2"
+Weight: 189 lbs
+--
+--
+Owner: Mike Bostock
+Height: 6'4"
+Weight: 173 lbs
+--
+--
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+--
+--
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+--
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+--
+--
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
