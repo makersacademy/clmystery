@@ -1,34 +1,12 @@
-Color: Blue
 Owner: Erika Owens
 Height: 6'5"
-Weight: 220 lbs
 --
---
-Color: Blue
-Owner: Aron Pilhofer
-Height: 5'3"
-Weight: 198 lbs
---
---
-Color: Blue
-Owner: Heather Billings
-Height: 5'2"
-Weight: 244 lbs
---
---
-Color: Blue
 Owner: Joe Germuska
 Height: 6'2"
 Weight: 164 lbs
 --
---
-Color: Blue
 Owner: Jeremy Bowers
 Height: 6'1"
-Weight: 204 lbs
 --
---
-Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
-Weight: 130 lbs
