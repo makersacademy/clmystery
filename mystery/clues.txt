@@ -11,6 +11,5 @@ membership cards for AAA, Delta SkyMiles, the local library, and the Museum of B
 blonde woman from NZ. annabel
 
 people:Annabel Sun	F	26	Hart Place, line 40
-people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
 people:Annabel Church	F	38	Buckingham Place, line 179
-people:Annabel Fuglsang	M	40	Haley Street, line 176^C
+

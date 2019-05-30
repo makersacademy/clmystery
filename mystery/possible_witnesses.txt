@@ -1,4 +1,4 @@
 
-people:Annabel Sun	F	26	Hart Place, line 40
-people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
 people:Annabel Church	F	38	Buckingham Place, line 179
+
+She reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
