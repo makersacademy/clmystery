@@ -1,10 +1,4 @@
 Owner: Erika Owens
-Owner: Martyna Kirkbride
-Owner: Lubomir Frank
-Owner: Pape Kantarci
-Owner: Alberto Pedersen
 Owner: Joe Germuska
-Owner: Marharyta Willmott
 Owner: Jeremy Bowers
-Owner: Darae Charlos
 Owner: Jacqui Maher
