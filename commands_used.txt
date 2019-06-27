@@ -1,6 +1,0 @@
-cat mystery/crimescene | grep CLUE > clues.txt
-cat mystery/people | grep Annabel | awk '=="F" {print}' > possible_witnesses.txt
-head -40 mystery/streets/Hart_Place | tail -1
-cat mystery/vehicles | grep L337.*9
-head -179 mystery/streets/Buckingham_Place | tail -1
-cat mystery/vehicles | grep L337.*9 -A5 | grep Honda -B 1 -A 4 | grep Blue -B 2 -A 3 | grep 6\' -B 4 -A 1
