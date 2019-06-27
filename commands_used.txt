@@ -1,0 +1,2 @@
+cat mystery/crimescene | grep CLUE > clues.txt
+cat mystery/people | grep Annabel | awk '=="F" {print}' > possible_witnesses.txt
