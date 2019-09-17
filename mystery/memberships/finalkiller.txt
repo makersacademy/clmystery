@@ -1,0 +1,7 @@
+./AAA:336:Jeremy Bowers
+./Terminal_City_Library:531:Jeremy Bowers
+./Museum_of_Bash_History:187:Jeremy Bowers
+./Delta_SkyMiles:1153:Jeremy Bowers
+./AAA:197:Joe Germuska
+./Terminal_City_Library:241:Joe Germuska
+so its jeremy as it matches clues.txt
