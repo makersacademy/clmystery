@@ -25,3 +25,4 @@ Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
 Weight: 130 lbs
+grep -A 5 -E 'L337.*9' vehicles | grep -B 1 -A 4 Make: Honda | grep -B 2 -A 3 Color: Blue | grep -B 4 -A 1 Height: 6
