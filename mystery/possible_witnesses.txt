@@ -1,0 +1,11 @@
+STEP 2
+
+To go to the street someone lives on, use the file
+for that street name in the 'streets' subdirectory.
+To knock on their door and investigate, read the line number
+they live on from the file.  If a line looks like gibberish, you're at the wrong house.
+
+
+Annabel Sun	F	26	Hart Place, line 40
+
+Annabel Church	F	38	Buckingham Place, line 179
