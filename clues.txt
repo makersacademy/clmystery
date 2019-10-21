@@ -20,12 +20,10 @@ Ms. Sun has brown hair and is not from New Zealand.  Not the witness from the ca
 
 ➜  1. Mystery git:(master) ✗ grep -r "Erika Owens" memberships | wc -l
        0
-
 ➜  1. Mystery git:(master) ✗ grep -r "Jeremy Bowers" memberships | wc -l
        4
-
 ➜  1. Mystery git:(master) ✗ grep -r "Joe Germuska" memberships | wc -l
        2
-
-  1. Mystery git:(master) ✗ grep -r "Jacqui Maher" memberships | wc -l
+➜  1. Mystery git:(master) ✗ grep -r "Jacqui Maher" memberships | wc -l
        4
+➜  1. Mystery git:(master
