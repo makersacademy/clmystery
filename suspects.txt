@@ -1,2 +1,29 @@
-Annabel Church	F	38	Buckingham Place, line 179
-Annabel Sun	F	26	Hart Place, line 40
+grep -A 4 -B 1 "Honda" ./mystery/vehicles | grep -A 3 -B 3 "Blue" | grep -A 1 -B 4 "Height: 6'*" | grep -A 5 "L337*" > suspects.txt
+
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+--
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+--
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+--
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
