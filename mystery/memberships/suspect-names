@@ -1,0 +1,6 @@
+Erika Owens
+Joe Germuska
+Jeremy Bowers
+Jacqui Maher
+
+grep -f AAA Delta_SkyMiles | grep -f Terminal_City_Library | grep -f Museum_of_Bash_History | grep -f suspect-names
