@@ -2,33 +2,3 @@
 ./mystery/people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
 ./mystery/people:Annabel Church	F	38	Buckingham Place, line 179
 ./mystery/people:Annabel Fuglsang	M	40	Haley Street, line 176
-./mystery/vehicles-License Plate 9R7TTGF
-./mystery/vehicles-Make: Volkswagen
-./mystery/vehicles-Color: Yellow
-./mystery/vehicles:Owner: Oluwasegun Annabel
-./mystery/vehicles-Height: 5'1"
-./mystery/vehicles-Weight: 240 lbs
---
---
-./mystery/vehicles-License Plate L2E48EF
-./mystery/vehicles-Make: BMW
-./mystery/vehicles-Color: Orange
-./mystery/vehicles:Owner: Annabel Church
-./mystery/vehicles-Height: 5'5"
-./mystery/vehicles-Weight: 201 lbs
---
---
-./mystery/vehicles-License Plate 0O27BTD
-./mystery/vehicles-Make: Fiat
-./mystery/vehicles-Color: Yellow
-./mystery/vehicles:Owner: Annabel Sun
-./mystery/vehicles-Height: 5'0"
-./mystery/vehicles-Weight: 232 lbs
---
---
-./mystery/vehicles-License Plate 20VVU2P
-./mystery/vehicles-Make: Mazda
-./mystery/vehicles-Color: Pink
-./mystery/vehicles:Owner: Annabel Fuglsang
-./mystery/vehicles-Height: 5'11"
-./mystery/vehicles-Weight: 241 lbs
