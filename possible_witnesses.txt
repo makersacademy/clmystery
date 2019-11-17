@@ -1,18 +1,15 @@
-./mystery/memberships/AAA:Annabel Church
-./mystery/memberships/AAdvantage:Annabel Fuglsang
-./mystery/memberships/AAdvantage:Annabel Church
-./mystery/memberships/Fitness_Galaxy:Annabel Church
-./mystery/memberships/Museum_of_Bash_History:Annabel Church
-./mystery/memberships/REI:Annabel Church
-./mystery/memberships/Rotary_Club:Annabel Sun
-./mystery/memberships/Rotary_Club:Annabel Fuglsang
-./mystery/memberships/Rotary_Club:Annabel Church
 ./mystery/people:Annabel Sun	F	26	Hart Place, line 40
+./mystery/people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
 ./mystery/people:Annabel Church	F	38	Buckingham Place, line 179
 ./mystery/people:Annabel Fuglsang	M	40	Haley Street, line 176
-./mystery/vehicles:Owner: Annabel Church
-./mystery/vehicles:Owner: Annabel Sun
-./mystery/vehicles:Owner: Annabel Fuglsang
+./mystery/vehicles-License Plate 9R7TTGF
+./mystery/vehicles-Make: Volkswagen
+./mystery/vehicles-Color: Yellow
+./mystery/vehicles:Owner: Oluwasegun Annabel
+./mystery/vehicles-Height: 5'1"
+./mystery/vehicles-Weight: 240 lbs
+--
+--
 ./mystery/vehicles-License Plate L2E48EF
 ./mystery/vehicles-Make: BMW
 ./mystery/vehicles-Color: Orange
