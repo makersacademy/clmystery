@@ -1,9 +1,6 @@
 Owner: Erika Owens
 Height: 6'5"
 --
---
-License Plate L337369
---
 Owner: Joe Germuska
 Height: 6'2"
 --
