@@ -1,7 +1,6 @@
 ### A place to add a context or two
 
-These were a series of challenges to get comfortable using Command Line in a larger context. The original instructions are below, the CLM was an insightful first look at Command Line while also being a good bit of fun.
-Thank you Noah!
+These were a series of challenges to get comfortable using Command Line in a larger context. The original instructions are below, the CLM was an insightful first look at Command Line while also being a good bit of fun. \nThank you Noah!
 
 /now back to it/
 
