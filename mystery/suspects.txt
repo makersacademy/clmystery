@@ -28,4 +28,3 @@ Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
 Weight: 130 lbs
-
