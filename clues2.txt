@@ -1,0 +1,19 @@
+Challenge: You need to search for lines in the file marked with the word 'CLUE'. Use the `grep` command to do this.
+
+Once you've found all the clues it's time to save them to a separate file for future reference.
+
+Use `touch` to create a file named 'clues.txt'. Use `>` to save the output of the `grep` command to the 'clues.txt' file.
+
+That's the first step done! Open 'step1-git' to see how you can track your work using a version control system (git).
+
+
+CMD used: rep -r "CLUE" /Users/joannacollier/Documents/Coding/Makers/Precourse/Projects/Precourse-Quiz-Week1/clmystery >> clues2.txt
+
+
+
+OUTCOME: 
+
+/Users/joannacollier/Documents/Coding/Makers/Precourse/Projects/Precourse-Quiz-Week1/clmystery/mystery/crimescene:CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+/Users/joannacollier/Documents/Coding/Makers/Precourse/Projects/Precourse-Quiz-Week1/clmystery/mystery/crimescene:CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+/Users/joannacollier/Documents/Coding/Makers/Precourse/Projects/Precourse-Quiz-Week1/clmystery/mystery/crimescene:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+/Users/joannacollier/Documents/Coding/Makers/Precourse/Projects/Precourse-Quiz-Week1/clmystery/step1:You need to search for lines in the file marked with the word 'CLUE'. Use the `grep` command to do this.
