@@ -1,0 +1,34 @@
+License Plate 9R7TTGF
+Make: Volkswagen
+Color: Yellow
+Owner: Oluwasegun Annabel
+Height: 5'1"
+Weight: 240 lbs
+
+--
+--
+License Plate L2E48EF
+Make: BMW
+Color: Orange
+Owner: Annabel Church
+Height: 5'5"
+Weight: 201 lbs
+
+--
+--
+License Plate 0O27BTD
+Make: Fiat
+Color: Yellow
+Owner: Annabel Sun
+Height: 5'0"
+Weight: 232 lbs
+
+--
+--
+License Plate 20VVU2P
+Make: Mazda
+Color: Pink
+Owner: Annabel Fuglsang
+Height: 5'11"
+Weight: 241 lbs
+
