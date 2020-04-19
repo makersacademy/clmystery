@@ -3,9 +3,14 @@ Reference: ./detective_handbook/step1.md
 Now it's time to collect the clues! The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports. Take a look at the 'mystery/crimescene' file. It's quite large so use the `less` command to view the contents of the file, one screen at a time.
 
 
-############ Challenge ###############
-
+############ Challenge ##############
 How can you view a file in different directory without switching to that directory first? What is the difference between absolute paths and relative paths?
+
+
+Answer: You can use the 'cat' command follow by a absolute path or relative path to the file.
+
+Absolute path points to the 'root' directory in the filesystem, the begining of the path would always start with '/Users'. Relative path can access file from other location rather than root folder. Path can begin with '~' for indicating root directory, '.' for current directory, or '..' for parent directory.
+
 
 ######################################
 
