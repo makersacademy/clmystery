@@ -29,3 +29,6 @@ There's been a murder in Terminal City, and TCPD needs your help.
 All the materials needed to figure out who did it are in the 'mystery' subdirectory. Using the commands from the Detective Handbook take a look around to see what files are in the 'mystery' subdirectory.
 
 Once you answered the questions above, read the 'step1' file via your terminal to start collecting the clues.
+
+Answer:
+'crimescene', 'memberships', 'streets', 'interviews', 'people', 'vehicles'.
