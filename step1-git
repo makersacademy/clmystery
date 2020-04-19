@@ -34,7 +34,11 @@ To push (upload) your 'clues.txt' file to Github, first "add" the file using `gi
 
 Is there a git command to view what changes you've made in your repository?
 
+Answer: git diff
+
 How can you tell what changes are going to be added to the next commit?
+
+Answer: git diff HEAD
 
 ######################################
 
