@@ -9,6 +9,8 @@ The phone rings unexpectedly and you lose your train of thought. How can you rem
 
 Can you use git to see the changes between one commit and another?
 
+Answer: git status and git log
+
 ######################################
 
 
