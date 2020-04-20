@@ -9,7 +9,11 @@ What files does the './mystery/memberships' subdirectory contain? What's inside 
 
 Remember that the `cat` command was originally intended for concatenating files. Using this how can you tell if one suspect has all of the memberships?
 
+Answer: use 'cat' command to read all the memberships file, pipe it to 'grep' for suspect's name.
+
 How many membership cards were in the wallet? Can you automatically count if the suspect has all of them using `grep`, `wc` commands and the pipe operator?
+
+Answer: use 'ls -l .' to list all the subdirectories in memberships directory, pipe the output to 'cat *' to read all the files, pipe the output to 'grep' to search for name of the suspect, pipe it to 'wc -l' to see the total number.
 
 ######################################
 
