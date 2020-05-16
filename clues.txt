@@ -7,7 +7,14 @@ CLUE: Found a wallet believed to belong to the killer: no ID, just loose change,
 CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
 
 Clue2
+Annabel Sun	F	26	Hart Place, line 40 **
+Oluwasegun Annabel	M	37	Mattapan Street, line 173
+Annabel Church	F	38	Buckingham Place, line 179 **
+Annabel Fuglsang	M	40	Haley Street, line 176
+
+Clue2
 SEE INTERVIEW #699607
+SEE INTERVIEW #47246024
 
 Clue3
 Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
