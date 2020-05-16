@@ -1,90 +1,12 @@
-vehicles:License Plate L337ZR9
-vehicles-Make: Honda
-vehicles-Color: Red
-vehicles-Owner: Katie Park
-vehicles-Height: 6'2"
-vehicles-Weight: 189 lbs
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
 --
-vehicles:License Plate L337P89
-vehicles-Make: Honda
-vehicles-Color: Teal
-vehicles-Owner: Mike Bostock
-vehicles-Height: 6'4"
-vehicles-Weight: 173 lbs
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lb
 --
-vehicles:License Plate L337GX9
-vehicles-Make: Mazda
-vehicles-Color: Orange
-vehicles-Owner: John Keefe
-vehicles-Height: 6'4"
-vehicles-Weight: 185 lbs
---
-vehicles:License Plate L337QE9
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Erika Owens
-vehicles-Height: 6'5"
-vehicles-Weight: 220 lbs
---
-vehicles:License Plate L337GB9
-vehicles-Make: Toyota
-vehicles-Color: Blue
-vehicles-Owner: Matt Waite
-vehicles-Height: 6'1"
-vehicles-Weight: 190 lbs
---
-vehicles:License Plate L337OI9
-vehicles-Make: Jaguar
-vehicles-Color: Blue
-vehicles-Owner: Brian Boyer
-vehicles-Height: 6'6"
-vehicles-Weight: 201 lbs
---
-vehicles:License Plate L337X19
-vehicles-Make: Fiat
-vehicles-Color: Blue
-vehicles-Owner: Al Shaw
-vehicles-Height: 6'5"
-vehicles-Weight: 240 lbs
---
-vehicles:License Plate L337539
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Aron Pilhofer
-vehicles-Height: 5'3"
-vehicles-Weight: 198 lbs
---
-vehicles:License Plate L3373U9
-vehicles-Make: Ford
-vehicles-Color: Blue
-vehicles-Owner: Miranda Mulligan
-vehicles-Height: 6'6"
-vehicles-Weight: 156 lbs
---
-vehicles:License Plate L337369
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Heather Billings
-vehicles-Height: 5'2"
-vehicles-Weight: 244 lbs
---
-vehicles:License Plate L337DV9
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Joe Germuska
-vehicles-Height: 6'2"
-vehicles-Weight: 164 lbs
---
-vehicles:License Plate L3375A9
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Jeremy Bowers
-vehicles-Height: 6'1"
-vehicles-Weight: 204 lbs
---
-vehicles:License Plate L337WR9
-vehicles-Make: Honda
-vehicles-Color: Blue
-vehicles-Owner: Jacqui Maher
-vehicles-Height: 6'2"
-vehicles-Weight: 130 lbs
