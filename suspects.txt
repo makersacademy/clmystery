@@ -1,6 +1,3 @@
-Owner: Aron Pilhofer
-Height: 5'3"
---
 Owner: Joe Germuska
 Height: 6'2"
 --
