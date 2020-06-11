@@ -1,11 +1,5 @@
-Owner: Erika Owens
-Height: 6'5"
---
 Owner: Aron Pilhofer
 Height: 5'3"
---
-Owner: Heather Billings
-Height: 5'2"
 --
 Owner: Joe Germuska
 Height: 6'2"
