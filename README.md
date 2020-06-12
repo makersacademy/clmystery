@@ -1,3 +1,16 @@
+# This is the first week challenge from the Makers Course where you have to solve a murder mystery. Below is the beginning tutorial.
+
+
+
+
+
+
+
+
+
+
+
+
 The Command Line Murder
 ========================
 
