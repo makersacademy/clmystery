@@ -1,15 +1,8 @@
-# This is the first week challenge from the Makers Course where you have to solve a murder mystery. Below is the beginning tutorial.
+# Murder Mystery Command Line Challenge
 
-
-
-
-
-
-
-
-
-
-
+## What I did
+As part of the first week of Makers Precourse, the command line was key to learn. Here is an exercise that is used to train using the command line. 
+Here I used the command line to search and manipulate folders and files, to search for hidden messages in a large folder system. Below is the outline of the mystery and how to solve it.
 
 The Command Line Murder
 ========================
