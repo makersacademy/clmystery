@@ -1,4 +1,15 @@
-Annabel Sun	F	26	Hart Place, line 40
-Oluwasegun Annabel	M	37	Mattapan Street, line 173
+Annabel Sun	F	26	Hart Place, line 40  
+#----Ruled out by interview - doesn't match description of the witness.
+
+
+Oluwasegun Annabel	M	37	Mattapan Street, line 173 
+#----Is male, therefore doesn't match description?
+
+
 Annabel Church	F	38	Buckingham Place, line 179
-Annabel Fuglsang	M	40	Haley Street, line 176
+#----Couldn't offer information at interview:
+Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+
+
+Annabel Fuglsang	M	40	Haley Street, line 176 
+#----Is male, therefore doesn't match description?
