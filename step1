@@ -11,7 +11,7 @@ How can you view a file in different directory without switching to that directo
 
 
 
-You need to search for lines in the file marked with the word 'CLUE'. Use the `grep` command to do this.
+You need to search for lines in the file marked with the word 'CLUE'. Use the `grep` command to do this.cat
 
 Once you've found all the clues it's time to save them to a separate file for future reference.
 
