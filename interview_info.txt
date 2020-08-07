@@ -1,7 +1,0 @@
-From interview #699607 
-Annabel Church was interviewed at 2:04pm.
-She reports seeing a car flee the scene:
-		Blue Honda
-		L_start: L337
-		L_end: 9
-
