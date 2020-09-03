@@ -4,7 +4,6 @@ Owner: Erika Owens
 Height: 6'5"
 Weight: 220 lbs
 --
-Make: Honda
 --
 --
 Make: Honda
@@ -13,8 +12,6 @@ Owner: Joe Germuska
 Height: 6'2"
 Weight: 164 lbs
 --
-Make: Honda
-Color: Blue
 --
 --
 Make: Honda
@@ -23,7 +20,6 @@ Owner: Jeremy Bowers
 Height: 6'1"
 Weight: 204 lbs
 --
-Make: Honda
 --
 --
 Make: Honda
