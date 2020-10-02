@@ -1,0 +1,447 @@
+[33mcommit aa9b7fbd83af56bd77cb7453607d3c8a8ad1a8e8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 13:35:01 2020 +0000
+
+    removed write accessfrom group
+
+[33mcommit 32644cf5efa31a9cfbc3b5055984d3053a61b884[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 12:55:08 2020 +0000
+
+    trying again with +w access to group as i think user & group are the same
+
+[33mcommit 89c44478b9ffa3785c7b586bd2f92b0d68db7d2d[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 11:55:00 2020 +0000
+
+    The Suspect
+
+[33mcommit fa47d8266ab3dbd195aa88c021d3e6835ddb6e4a[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 10:42:07 2020 +0000
+
+    car details of the suspects
+
+[33mcommit 2ffe53b14f89810911ef1795f9352e20e3d40d09[m
+Merge: ef6ce24 ed6ab24
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 10:12:15 2020 +0000
+
+    Merge branch 'step-5'
+
+[33mcommit ed6ab24d13482d6debd1f1261ed1d1248136a545[m[33m ([m[1;32mstep-5[m[33m)[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 10:10:15 2020 +0000
+
+    about the car
+
+[33mcommit ef6ce240e6f5e69de250141ec10d2fecc5631bf0[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 09:28:35 2020 +0000
+
+    Interview #s from streets
+
+[33mcommit 24e81aed1a1fbfab1f576b7ea4bc86bfc61bf448[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Fri Oct 2 08:40:07 2020 +0000
+
+    list of the possible witnesses
+
+[33mcommit 29aca5074ef13fe9d43f76e00463f514aa19c04d[m
+Author: TamMelPer <mystic101@gmail.com>
+Date:   Thu Oct 1 11:53:12 2020 +0000
+
+    clues from crimescene
+
+[33mcommit d656e58e49d15a12038b313defedaf97155a1110[m
+Merge: 97ac4b9 1ccf877
+Author: Alice Lieutier <alice@makersacademy.com>
+Date:   Wed May 8 19:24:30 2019 +0100
+
+    Merge pull request #1420 from ruthmoog/edit_typo
+    
+    Correct typo/broken url
+
+[33mcommit 1ccf877f9ebea2f220d4e72320f7cd98e86042de[m
+Author: Ruth Baker <ruthmoog@gmail.com>
+Date:   Mon May 6 11:32:20 2019 +0100
+
+    Correct typo/broken url
+
+[33mcommit 97ac4b9c3c91d19c050145eb9c944beb7e12356a[m
+Merge: c13cf10 4a1da39
+Author: Sophie Gill <sophie-gill@hotmail.com>
+Date:   Mon Mar 4 09:41:28 2019 +0000
+
+    Merge pull request #1323 from makersacademy/precourse-refresh
+    
+    Adds more detailed instructions on PRs
+
+[33mcommit 4a1da39c7a9d18ff4588b5f67d4d62ffbb379363[m
+Author: Sophie Gill <sophie@makersacademy.com>
+Date:   Fri Feb 22 13:58:20 2019 +0000
+
+    adds more detailed instructions on PRs
+
+[33mcommit c13cf10c5981b90475430486799c4ccd1e4033d3[m
+Author: Daniel Bergquist <dan@makersacademy.com>
+Date:   Mon Oct 8 14:59:19 2018 +0100
+
+    Update getting_started.md
+
+[33mcommit 0346a482fb8a3b52df27a40f7ba861b0df0b7773[m
+Author: Daniel Bergquist <dan@makersacademy.com>
+Date:   Mon Oct 8 14:58:54 2018 +0100
+
+    Update getting_started.md
+
+[33mcommit 86564f94512a2cbf9dede7f806a35d609035442d[m
+Author: Sophie Gill <sophie-gill@hotmail.com>
+Date:   Mon Aug 13 10:40:02 2018 +0100
+
+    Update step9
+
+[33mcommit 8cfad87e5d910c55fd7cd3bbc8cad7fd166fdb32[m
+Author: Sophie Gill <sophie-gill@hotmail.com>
+Date:   Mon Aug 13 10:38:02 2018 +0100
+
+    Update step9
+    
+    Adds instructions to open a PR
+
+[33mcommit 11c5ccfd270edaae027b0c976be9dfb7b30fa7a8[m
+Author: Ana Carlos <adscarlos@gmail.com>
+Date:   Mon Dec 12 15:42:49 2016 +0000
+
+    Update README.md
+
+[33mcommit 7008ea677a1c7acdd9211a11ab800a15cdb60930[m
+Merge: 9cdf060 fb7e6d9
+Author: Irina Bednova <howeveririna@gmail.com>
+Date:   Tue Sep 20 13:51:13 2016 +0100
+
+    Merge pull request #259 from makersacademy/final-step-instructions
+    
+    Adds instructions to step9 to avoid extra spaces
+
+[33mcommit fb7e6d927873f6347ab3975d1d0910cde69a7172[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Sep 20 13:48:57 2016 +0100
+
+    Adds instructions to step9 to avoid extra spaces
+
+[33mcommit 9cdf060fa75c2055637a935980563019597cf40b[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Mon Jun 20 14:09:06 2016 +0100
+
+    Add TravisCI integration
+
+[33mcommit 8838407642e6b422bba91d89eb4b10f6cf70b68a[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Mon Jun 20 12:33:06 2016 +0100
+
+    Murder -> Murders
+
+[33mcommit 8558abbd0dfbf9b3a4e03c55f1fb29584b532f67[m
+Author: Roi Driscoll <roidriscoll@users.noreply.github.com>
+Date:   Mon Mar 14 18:07:53 2016 +0000
+
+    Update README.md
+
+[33mcommit 4fa0650338cc8fa5832431244b9c7a347efa90a4[m
+Author: Roi Driscoll <roidriscoll@users.noreply.github.com>
+Date:   Mon Mar 14 18:06:34 2016 +0000
+
+    Update README.md
+
+[33mcommit f84b966af8bf0de15541340dd1c31fd1d686c317[m
+Author: Roi Driscoll <roidriscoll@users.noreply.github.com>
+Date:   Mon Mar 14 17:55:29 2016 +0000
+
+    Update README.md
+
+[33mcommit 4f7b424960f5123f1edc7c01fa3e2a7ed39431a4[m[33m ([m[1;31morigin/step-5[m[33m)[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Mon Mar 14 17:50:58 2016 +0000
+
+    Note on Vim
+
+[33mcommit 93890539dc37cac6dab7dfb7274e7f37210c6cf2[m
+Merge: ec21102 ccc7a17
+Author: jafrog <howeveririna@gmail.com>
+Date:   Mon Mar 14 17:43:29 2016 +0000
+
+    Merge remote-tracking branch 'makers/step-5-edits' into step-5
+
+[33mcommit 570094e0ad9a9b06f6e7167acb4b3ffc78d0ed80[m
+Merge: 40e358d 0a091df
+Author: jafrog <howeveririna@gmail.com>
+Date:   Mon Mar 14 17:39:39 2016 +0000
+
+    Merge branch 'master' of github.com:makersacademy/clmystery
+
+[33mcommit 40e358de65cf7f32b6c1cbc2c2308c19c60df0ff[m
+Author: Roi Driscoll <roi.driscoll@gmail.com>
+Date:   Thu Mar 10 16:53:03 2016 +0000
+
+    adds final edits
+
+[33mcommit ccc7a1726bebfb32d15b06c8cc97f979d4f00cb6[m
+Author: Roi Driscoll <roi.driscoll@gmail.com>
+Date:   Thu Mar 10 15:58:18 2016 +0000
+
+    Edits to step-5 branch
+
+[33mcommit 23d311ed93d5286a78dc35f7846239cc6625b615[m
+Author: Roi Driscoll <roi.driscoll@gmail.com>
+Date:   Thu Mar 10 15:53:32 2016 +0000
+
+    small typo
+
+[33mcommit 6739f778cbaa61e7c9ca7eec031bbd22014a5eec[m
+Author: Roi Driscoll <roi.driscoll@gmail.com>
+Date:   Thu Mar 10 15:51:21 2016 +0000
+
+    adds some suggestions
+
+[33mcommit 0a091df110aabfd22b848bbb36f03e451acec0d3[m
+Author: Ana Carlos <adscarlos@gmail.com>
+Date:   Wed Mar 9 12:51:06 2016 +0000
+
+    Update step1-git.md
+
+[33mcommit 5d699d0e41f91dde75ec008c5c8577a883a76b2a[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Sun Mar 6 18:15:37 2016 +0000
+
+    Step 9 with file permissions
+
+[33mcommit ee8ea723dc592ae93d77aa13eb901dbebcdb8a0c[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Sun Mar 6 17:53:03 2016 +0000
+
+    Reference for steps 7 and 8
+
+[33mcommit 2b41cb6e6b33c5b644cbd3dce569f7b633a76817[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Fri Mar 4 18:13:57 2016 +0000
+
+    Reference for step 6
+
+[33mcommit ec211025987664a46e2ad35205f04e2ca7d54996[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Fri Mar 4 12:29:15 2016 +0000
+
+    Step 5 merge reference
+
+[33mcommit 4a75970aaea421b399757322fcc933c86145610f[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 16:08:31 2016 +0000
+
+    Step 5
+
+[33mcommit bf3c0f7281c02dcaa3c690337eb7b6e54b4b15a3[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Fri Mar 4 12:25:38 2016 +0000
+
+    Reference for steps up to 5
+
+[33mcommit 9e2ae07780f435815fec6430e70e9c0101d0ce95[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Thu Mar 3 17:05:00 2016 +0000
+
+    References for step 0-3
+
+[33mcommit 7a97a66374b98b304cd687050097e8c6fcb48d08[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Wed Mar 2 17:18:08 2016 +0000
+
+    Reference for Readme and step0
+
+[33mcommit 49372328c0be7f7f088642d3af00a2508770e8f5[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Wed Mar 2 13:28:13 2016 +0000
+
+    TODOs in Readme
+
+[33mcommit 4e2ea73bd6fbb1a6947312059b6023a3fc8092e5[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 17:23:18 2016 +0000
+
+    Ch-ch-changes
+
+[33mcommit 8809b6dc112f25e50c281bd03bb347b06316f1a1[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 17:19:20 2016 +0000
+
+    Typo
+
+[33mcommit 914c3ad0b133ff680c04b2f0bfd5ffe65ffbe820[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 16:57:10 2016 +0000
+
+    Step 8 more instructions
+
+[33mcommit af47e509912da53a5b3da830ff061eac70884b73[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 16:55:17 2016 +0000
+
+    Steps 6 - 8
+
+[33mcommit 0b233f64a80948ef48d5ce745967deb4dd5a0adc[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 15:56:23 2016 +0000
+
+    Step 5
+
+[33mcommit 87e7c4df6caebf46076054a4c1ada358cd112af0[m
+Author: jafrog <howeveririna@gmail.com>
+Date:   Tue Mar 1 15:41:45 2016 +0000
+
+    Steps up to looking up the interviews
+
+[33mcommit 6dd30f8762c9319a3613eadd05fdf783baa4d7d9[m
+Author: Noah <noah@noahveltman.com>
+Date:   Tue Feb 2 12:08:37 2016 -0500
+
+    Separating solution instructions from encoded solution
+
+[33mcommit be81a5ce616707bc29d6a41050d9be7d3e6fc08b[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 21:08:17 2016 -0500
+
+    Make hash grep case-insensitive, closes #17
+
+[33mcommit ab7eb37f1c5e2d830b9e84857091de190de27fe8[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 14:07:18 2016 -0500
+
+    Adding newlines to streets
+
+[33mcommit 8041fc5dd6cd1acde5633393f970ff7f1fac6518[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 14:01:39 2016 -0500
+
+    Adding newlines to interviews
+
+[33mcommit bad49da281dbf3dac3fb8bb97647187c15299d84[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 14:00:03 2016 -0500
+
+    Fixing people newline
+
+[33mcommit ea2c95c12c09970015a18e44b3ce55ad3daf248f[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 13:42:03 2016 -0500
+
+    Adding newlines to hint files
+
+[33mcommit 325899cb5b59808b69d5cf427ef62909b8e62bd7[m
+Merge: a3c707d 4fd937c
+Author: Noah Veltman <veltmanstuff@gmail.com>
+Date:   Fri Jan 29 13:31:59 2016 -0500
+
+    Merge pull request #16 from Mathnerd314/patch-1
+    
+    Fix check command
+
+[33mcommit 4fd937ce386f96972499bad1cf7df25cb7a206b4[m
+Author: Mathnerd314 <mathnerd314.gph+github@gmail.com>
+Date:   Fri Jan 29 11:29:17 2016 -0700
+
+    Fix check command
+    
+    A recent commit deleted the 'echo'
+
+[33mcommit a3c707d2cc453b0ab0bc614a56df317d4bc13674[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 12:53:31 2016 -0500
+
+    Tweaking success wording
+
+[33mcommit 5a9a78246e36f57f3e1a43ee0a0e1364316dcc68[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 12:51:12 2016 -0500
+
+    Close #7
+
+[33mcommit ceb7c33cb556bb8cb95dd1be72c3311c4ca7fede[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 12:44:10 2016 -0500
+
+    Adding m5 hashes to solutions file
+
+[33mcommit 3a7a00bd52afb74e10817a4dd7f15db616a55201[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 11:46:18 2016 -0500
+
+    Tweaking credits
+
+[33mcommit 473a92b38d441601e6564ba7a5202f98d8e3fb5e[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 11:45:23 2016 -0500
+
+    Updating credits
+
+[33mcommit bcce006a5aaa97149ff945f74c6b11233b044cba[m
+Author: Noah <noah@noahveltman.com>
+Date:   Fri Jan 29 11:43:27 2016 -0500
+
+    Adding note about cat
+
+[33mcommit 66d6a88a7fb6eb8377048851faac2141ade7d113[m
+Author: Noah <noah@noahveltman.com>
+Date:   Thu Jan 15 09:17:42 2015 -0500
+
+    Adding license
+
+[33mcommit d6dc6e3a5ce46a4b014399f8e951b723c79adfa2[m
+Author: Noah <noah@noahveltman.com>
+Date:   Tue Jan 14 18:50:48 2014 -0800
+
+    Removed .zip file, linking to GitHub's .zip instead
+
+[33mcommit cf450b1e2dc30d8588779ca082ba575b2bb5dc12[m
+Merge: a6658ea 2d050f7
+Author: veltman <veltmanstuff@gmail.com>
+Date:   Tue Jan 14 18:49:33 2014 -0800
+
+    Merge pull request #5 from Smylers/patch-1
+    
+    Fix Directory Name in Solution
+
+[33mcommit 2d050f7bf7509755536edd7f0d197fe0bc979860[m
+Author: Smylers <Smylers@stripey.com>
+Date:   Tue Jan 14 14:40:44 2014 +0000
+
+    Fix Directory Name in Solution
+
+[33mcommit a6658ea87a0299f9dc806f529a2a34eacd05cebe[m
+Author: Noah <noah@noahveltman.com>
+Date:   Thu Oct 31 14:09:42 2013 +0000
+
+    Tweaked crimescene file
+
+[33mcommit d828fb7e9a219fb5be1d071f81acd4e28e0ad9b8[m
+Author: Noah <noah@noahveltman.com>
+Date:   Sun Oct 27 19:54:16 2013 +0000
+
+    Fixed typo
+
+[33mcommit db0b97a1ec837acacac187df461c117606c86459[m
+Author: Noah <noah@noahveltman.com>
+Date:   Sat Oct 26 12:17:56 2013 +0100
+
+    Updated README
+
+[33mcommit 5505994a59524a5ae3d68826b0893d54d34a7660[m
+Author: Noah <noah@noahveltman.com>
+Date:   Sat Oct 26 04:28:23 2013 +0100
+
+    First version of CLI mystery
+
+[33mcommit 2829a19919d0254e1adaefd2871860c94504d2db[m
+Author: veltman <veltmanstuff@gmail.com>
+Date:   Fri Oct 25 20:05:47 2013 -0700
+
+    Initial commit
