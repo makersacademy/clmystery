@@ -8,7 +8,7 @@ Weight: 220 lbs
 License Plate L337DV9
 Make: Honda
 Color: Blue
-Owner: Joe Germuska
+Owner: Joe Germuska 
 Height: 6'2"
 Weight: 164 lbs
 
@@ -22,7 +22,7 @@ Weight: 204 lbs
 License Plate L337WR9
 Make: Honda
 Color: Blue
-Owner: Jacqui Maher
+Owner: Jacqui Maher 
 Height: 6'2"
 Weight: 130 lbs
 
