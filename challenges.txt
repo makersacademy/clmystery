@@ -1,0 +1,3 @@
+challenge 1, an absolute path is from the same location regardless of the current pwd, it must include the root. a relative path is from the any working directory.
+
+cat mystery/crimescene | less
