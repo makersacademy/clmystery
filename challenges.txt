@@ -1,3 +1,7 @@
-challenge 1, an absolute path is from the same location regardless of the current pwd, it must include the root. a relative path is from the any working directory.
-
+challenge 1,
+an absolute path is from the same location regardless of the current pwd, it must include the root. a relative path is from the any working directory.
 cat mystery/crimescene | less
+
+challenges 1-git
+How can you tell what changes are going to be added to the next commit? git status
+Is there a git command to view what changes you've made in your repository? git log
