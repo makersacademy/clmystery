@@ -4,24 +4,11 @@ Color: Blue
 Owner: Erika Owens
 Height: 6'5"
 
-License Plate L337539
-Make: Honda
-Color: Blue
-Owner: Aron Pilhofer
-Height: 5'3"
-
-License Plate L337369
-Make: Honda
-Color: Blue
-Owner: Heather Billings
-Height: 5'2"
-
 License Plate L337DV9
 Make: Honda
 Color: Blue
 Owner: Joe Germuska
 Height: 6'2"
-
 License Plate L3375A9
 Make: Honda
 Color: Blue
@@ -33,5 +20,3 @@ Make: Honda
 Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
-c
-c
