@@ -17,3 +17,6 @@ How many membership cards were in the wallet? Can you automatically count if the
 If you managed to narrow your investigation down to one suspect, read the `solution` file to verify that you have found the killer. Move on to 'step9'
 
 If not, retrace your steps until there is only one suspect.
+
+cat ./mystery/memberships/* | grep -f suspects.txt | sort | uniq -c | grep 4 | sed 's/^.....//' > suspects.txt
+grep -l -f suspects.txt ./mystery/memberships/* | sed 's/^.*\///' >> suspects.txt

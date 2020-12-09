@@ -13,3 +13,5 @@ Can you use git to see the changes between one commit and another?
 
 
 Move on to step 8.
+
+git diff SHA..SHA
