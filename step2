@@ -17,3 +17,5 @@ Commit and push the file to Github.
 If you get stuck look inside 'hint1'
 
 Once you've done that go to step3.
+
+grep Annabel ./mystery/people | grep $.	\F > possible_witnesses.txt

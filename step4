@@ -10,3 +10,11 @@ Use the combination of `head`, `tail` and `|` operators to view exactly the line
 You have two addresses to investigate. Create a file for your reference called `interviews.txt`. Find the relevant line in each of the two address files, and save the contents to 'interviews.txt'. Commit it and push to Github.
 
 Now let's move to step5.
+
+head -40 ./mystery/streets/Hart_Place | tail -1 >> interviews.txt
+OR
+sed '40q;d' ./mystery/streets/Hart_Place >> interviews.txt
+
+head -179 ./mystery/streets/Buckingham_Place | tail -1 >> interviews.txt
+OR
+sed 179q;d' ./mystery/streets/Buckingham_Place >> interviews.txt

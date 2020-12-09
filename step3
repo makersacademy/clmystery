@@ -14,3 +14,6 @@ Take a look inside the files you've found. REMEMBER: among the information avail
 If you get stuck check out hint2.
 
 Move on to step4.
+
+find ./ -name Hart_Place
+find ./ -name Buckingham_Place

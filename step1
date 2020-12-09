@@ -18,3 +18,5 @@ Once you've found all the clues it's time to save them to a separate file for fu
 Use `touch` to create a file named 'clues.txt'. Use `>` to save the output of the `grep` command to the 'clues.txt' file.
 
 That's the first step done! Open 'step1-git' to see how you can track your work using a version control system (git).
+
+grep CLUE ./mystery/crimescene > clues.txt
