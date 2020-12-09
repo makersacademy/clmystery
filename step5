@@ -5,3 +5,6 @@ You found two witness interview files. Take a look inside both of them and save 
 You feel satisfied that you have covered your tracks - time to consolidate your files. Commit the file but DON'T PUSH IT YET!
 
 First checkout back into the 'master' branch, and merge the 'step-5' branch into 'master'.
+
+cat ./mystery/interviews/interview-47246024 > interview_info.txt
+cat ./mystery/interviews/interview-699607 >> interview_info.txt
