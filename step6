@@ -21,3 +21,7 @@ Make a pull request to the original 'makersacademy/clmystery' repository to repo
 You're very happy with the progress of your investigation - you feel like you are close to identifying the culprit.
 
 Move on to step 7.
+
+
+grep -A 5 L337 ./mystery/vehicles | grep -A 4 Honda | grep -A 3 Blue | grep -B 1 $' 6' | grep Owner | sed 's/Owner: //' > suspects.txt
+grep -f suspects.txt ./mystery/people | grep $'\tM' | sed 's/\t.*//' > suspects.txt
