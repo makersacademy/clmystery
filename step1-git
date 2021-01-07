@@ -32,9 +32,9 @@ To push (upload) your 'clues.txt' file to Github, first "add" the file using `gi
 
 ############ Challenge ###############
 
-Is there a git command to view what changes you've made in your repository?
+Is there a git command to view what changes you've made in your repository? Git status
 
-How can you tell what changes are going to be added to the next commit?
+How can you tell what changes are going to be added to the next commit? Changes to be committed "new file : clues. Txt"
 
 ######################################
 

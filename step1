@@ -5,7 +5,7 @@ Now it's time to collect the clues! The officers on the scene are pretty meticul
 
 ############ Challenge ###############
 
-How can you view a file in different directory without switching to that directory first? What is the difference between absolute paths and relative paths?
+How can you view a file in different directory without switching to that directory first? What is the difference between absolute paths and relative paths? View files in other directories using "ls". An absolute path is defined as specifying the location of a file or directory from the root directory, usually starts with '/'. Whereas, a relative path looks at is defined as the path related to the present working directly(pwd) - does not start with (/).
 
 ######################################
 
