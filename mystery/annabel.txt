@@ -1,5 +1,2 @@
-annabel
-woman
-latte
-blond spiky hair
-NZ accent
+Annabel Sun	F	26	Hart Place, line 40
+Annabel Church	F	38	Buckingham Place, line 179
