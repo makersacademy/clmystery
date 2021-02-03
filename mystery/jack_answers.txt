@@ -14,3 +14,18 @@ Step 2
 challenge - what do head and tail do 
 1. head and tail allow you to look at the top and bottom lines of a file respectively, they default to 10 lines, so add an integer after callling them to get only thoses specific files. e.g. head -1 filename
 
+Step 3
+challenge find files matching street names for two remaing women named Annabel
+1. use find -name with two wildcards and the street name '*name*' -print to search for the path from the current directory 
+2. look got clues using cat -n ./streets/Buckingham_Place | grep '^ *179'  - cat -n prints out each line with a line number, grep then searches for that line number. 
+
+Step 4
+challenge - find the two lines in the addresses that are relevent
+1. you could use the above solution in line 2 or you can use Head and tail 
+2. head -line_number filename | tail -1 #will spit out the single line you are looking for.
+
+Step 5 Challenge
+
+
+Step 6 Challenge
+
