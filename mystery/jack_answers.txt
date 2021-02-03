@@ -3,4 +3,14 @@ Challenge - How can you view a file in different directory without switching to 
 1. you write the path address form the directory you are in, e.g. ./directory1/sub-directory/file (allows you to access files from the current directory down a few subdirectories), or ../alt_directory/filename (allows you to step up a directory and then go into a different directory or ~/directory/filename (takes you straight to the root directory and search from there.
 2. Absolute path will be the full path title from the root, relative path will be the route from the current directory.
 
+Step 1.git 
+challenge - Is there a git command to view what changes you've made in your repository? 
+1. Yes you can use git status to tell you what changes have been made (also git log is an option). 
+
+- how can you tell what changes are going to be added to the next commit? 
+2. git status 
+
+Step 2
+challenge - what do head and tail do 
+1. head and tail allow you to look at the top and bottom lines of a file respectively, they default to 10 lines, so add an integer after callling them to get only thoses specific files. e.g. head -1 filename
 
