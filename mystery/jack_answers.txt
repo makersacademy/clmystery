@@ -1,0 +1,6 @@
+Step 1
+Challenge - How can you view a file in different directory without switching to that directory first? What is the difference between absolute paths and relative paths.
+1. you write the path address form the directory you are in, e.g. ./directory1/sub-directory/file (allows you to access files from the current directory down a few subdirectories), or ../alt_directory/filename (allows you to step up a directory and then go into a different directory or ~/directory/filename (takes you straight to the root directory and search from there.
+2. Absolute path will be the full path title from the root, relative path will be the route from the current directory.
+
+
