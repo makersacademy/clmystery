@@ -25,7 +25,22 @@ challenge - find the two lines in the addresses that are relevent
 2. head -line_number filename | tail -1 #will spit out the single line you are looking for.
 
 Step 5 Challenge
+no challenge but relearnt find command and git merge 
+
+find works as so - 'find path -name "text" -print'
+
+git merge works by merging the named branch into the current branch - git merge branchx (make sure you have no uncommitted changes' 
 
 
 Step 6 Challenge
+search with grep, pipe to another grep, then another
+grep -A number "search" file | grep -A number "nextSearch"
 
+Step 7 Challenge
+git status, git log, git diff to look at status of changes
+
+step 8 Challenge
+cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy Bowers" | wc
+
+Step 9
+change permission with chmod
