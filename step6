@@ -4,7 +4,7 @@ Now you have more information to identify the perpetrator. Peek into the './myst
 
 ############ Challenge ###############
 
-Now you need to search for multiple keywords in one file. How can you combine `grep` with flags and the pipe operator ('|') to filter the vehicle records for:
+Now you need to  to filter the vehicle records for:
 
 * car model
 * car color
