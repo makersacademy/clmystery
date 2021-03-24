@@ -16,12 +16,6 @@ The asterisk (wildcard) is a "match all" symbol. When you type `ls kitties/cute_
 
 This command works a lot just like normal English. It's saying: "find all files, starting with the current directory, with any name that ends in .txt and print it to the screen." Another cool feature of the "find" command is that, if you have additional directories inside the directory you search in, it will go into those directories as well and continue the search.
 
-# `head`
-
-`head -3 longText.txt`
-
-The "head -3" command tells the computer that we want to view the first 3 lines of the longText.txt file.
-
 # `ls` with flags
 
 `ls -a` prints all files and directories including the ones whose names begin with `.`
