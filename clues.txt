@@ -1,8 +1,3 @@
-step0:Once you answered the questions above, read the 'step1' file via your terminal to start collecting the clues.
-step1:Now it's time to collect the clues! The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports. Take a look at the 'mystery/crimescene' file. It's quite large so use the `less` command to view the contents of the file, one screen at a time.
-step1:Once you've found all the clues it's time to save them to a separate file for future reference.
-step1:Use `touch` to create a file named 'clues.txt'. Use `>` to save the output of the `grep` command to the 'clues.txt' file.
-step1-git:To push (upload) your 'clues.txt' file to Github, first "add" the file using `git add`.
-step2:Take a look inside your 'clues.txt'. What does the third clue tell you? Within the 'mystery' directory, which files should you look at, based on this clue?
-step6:Now you have more information to identify the perpetrator. Peek into the './mystery/vehicles' file. What information does it contain? Cross-reference it with your 'clues.txt' again - is there anything else you could search for in the vehicles record?
-step7:Now you're down to 4 suspects. First, destroy all the files you've created except for 'clues.txt' and 'suspects.txt', you don't need them anymore.
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
