@@ -1,22 +1,19 @@
 Reference: ./detective_handbook/step8.md
 
-The last clue that you have left is the list of memberships in the wallet found at the crimescene. All you need to do now is to see if one of the suspects has all these memberships.
+The final outstanding clue is the list of memberships in the wallet found at the crime scene. All that's required now is to verify your suspect holds all of the relevant memberships.
 
-What files does the 'mystery/memberships' subdirectory contain? What is inside these files?
+What files does the './mystery/memberships' subdirectory contain? What's inside these files?
 
 
 ############ Challenge ###############
 
 Remember that the `cat` command was originally intended for concatenating files. Using this how can you tell if one suspect has all of the memberships?
 
-How many membership cards were in the wallet? Can you automatically count if the suspect has all of them using `grep`, `wc` and the pipe operator?
+How many membership cards were in the wallet? Can you automatically count if the suspect has all of them using `grep`, `wc` commands and the pipe operator?
 
 ######################################
 
 
+If you managed to narrow your investigation down to one suspect, read the `solution` file to verify that you have found the killer. Move on to 'step9'
 
-If you got it down to one suspect check if he's the one by following the instructions in the 'solution' file.
-
-Congratulations! You caught the murderer! Move on to step 9 to submit your answer.
-
-Save his name in the 'jail.txt' file, commit and push to Github.
+If not, retrace your steps until there is only one suspect.
