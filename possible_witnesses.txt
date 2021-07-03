@@ -1,5 +1,0 @@
-./mystery/crimescene:11002:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
-./mystery/people:278:Annabel Sun	F	26	Hart Place, line 40
-./mystery/people:1670:Annabel Church	F	38	Buckingham Place, line 179
-./mystery/vehicles:22681:Owner: Annabel Church
-./mystery/vehicles:22737:Owner: Annabel Sun
