@@ -1,0 +1,12 @@
+./TCSU_Alumni_Association:Maher Vos
+./AAA:Joe Germuska
+./AAA:Jeremy Bowers
+./AAA:Jacqui Maher
+./Terminal_City_Library:Jacqui Maher
+./Terminal_City_Library:Joe Germuska
+./Terminal_City_Library:Jeremy Bowers
+./Museum_of_Bash_History:Maher Vos
+./Museum_of_Bash_History:Jeremy Bowers
+./Museum_of_Bash_History:Jacqui Maher
+./Delta_SkyMiles:Jacqui Maher
+./Delta_SkyMiles:Jeremy Bowers

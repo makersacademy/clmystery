@@ -1,0 +1,14 @@
+interviews/./interview-904020:Maher is not considered a suspect.  Video evidence confirms that she was away at a professional soccer game on the morning in question, even though it was a workday.
+interviews/./interview-5455315:Owens has an alibi for the morning in question, she was in Toronto for the Mozilla All Hands Meeting.  Multiple sources, including a person in a fox costume, corroborate this.  Not a suspect.
+memberships/./TCSU_Alumni_Association:Maher Vos
+memberships/./AAA:Joe Germuska
+memberships/./AAA:Jeremy Bowers
+memberships/./AAA:Jacqui Maher
+memberships/./Terminal_City_Library:Jacqui Maher
+memberships/./Terminal_City_Library:Joe Germuska
+memberships/./Terminal_City_Library:Jeremy Bowers
+memberships/./Museum_of_Bash_History:Maher Vos
+memberships/./Museum_of_Bash_History:Jeremy Bowers
+memberships/./Museum_of_Bash_History:Jacqui Maher
+memberships/./Delta_SkyMiles:Jacqui Maher
+memberships/./Delta_SkyMiles:Jeremy Bowers
