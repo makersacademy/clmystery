@@ -1,0 +1,10 @@
+clues.txt:3:crimescene:11002:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+crimescene:11002:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+people:278:Annabel Sun	F	26	Hart Place, line 40
+people:1395:Oluwasegun Annabel	M	37	Mattapan Street, line 173
+people:1670:Annabel Church	F	38	Buckingham Place, line 179
+people:1760:Annabel Fuglsang	M	40	Haley Street, line 176
+vehicles:19741:Owner: Oluwasegun Annabel
+vehicles:22681:Owner: Annabel Church
+vehicles:22737:Owner: Annabel Sun
+vehicles:23367:Owner: Annabel Fuglsang
