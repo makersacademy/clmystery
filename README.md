@@ -1,3 +1,6 @@
+This is the first week of precourse work for the Makers academy, completed in August 2021. It is designed to practice simple command line operations.
+
+
 The Command Line Murder
 ========================
 
