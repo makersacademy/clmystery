@@ -1,0 +1,3 @@
+The culprit is Jeremy Bowers as he is the only one to hold all 4 IDs and is also male.
+I used the following to solve:
+cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep 'Jeremy Bowers' | wc -l
