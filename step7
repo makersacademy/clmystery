@@ -1,11 +1,13 @@
 Reference: ./detective_handbook/step7.md
 
-Now you're down to 4 suspects. First, remove all files you've created but 'clues' and 'suspects', you don't need them anymore.
+Now you're down to 4 suspects. First, destroy all the files you've created except for 'clues.txt' and 'suspects.txt', you don't need them anymore.
 
 
 ############ Challenge ###############
 
-How can you tell what files you've added? Can you use git to see the changes between one commit and another?
+The phone rings unexpectedly and you lose your train of thought. How can you remind yourself which files you have changed or added? Maybe git can help.
+
+Can you use git to see the changes between one commit and another?
 
 ######################################
 
