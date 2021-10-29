@@ -1,0 +1,5 @@
+
+cat >> interviews.txt | find . -Haley_Street | grep SEE Haley_Street
+grep SEE Haley_Street
+SEE INTERVIEW #871877
+SEE INTERVIEW #47246024
