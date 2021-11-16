@@ -4,3 +4,4 @@ people:Annabel Church	F	38	Buckingham Place, line 179
 people:Anabel Mesfioui	F	44	Lansdowne Street, line 16
 people:Anabelle Ismail	F	72	Forest Place, line 168
 people:Anabel Kal	F	25	Cedar Lane Way, line 15
+It seems the barista was in fact confident of the spelling of the possible witnesses name. So we will only be following up with Annabel Sun and Annabel Church.
