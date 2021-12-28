@@ -4,4 +4,4 @@ You found two witness interview files. Take a look inside both of them and save 
 
 You feel satisfied that you have covered your tracks - time to consolidate your files. Commit the file but DON'T PUSH IT YET!
 
-First checkout back into the 'master' branch, and merge the 'step-5' branch into 'master'.
+First checkout back into the 'main' branch, and merge the 'step-5' branch into 'main'.
