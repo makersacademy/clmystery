@@ -1,4 +1,4 @@
-### Searching for multiple terms
+# Searching for multiple terms
 To search for multiple terms in the **vehicles** file, I used used the following:
 - Search for a term, but use the -A and -B flags to include prior and trailing lines
 - Pipe the above result back into `grep` to search for the next terms.
@@ -35,7 +35,7 @@ Owner: Jacqui Maher
 Height: 6'2"
 ```
 
-### Finding a particular line
+# Finding a particular line
 I was able to accomplish this by using a combination of `head` and `tail`
 
 E.g to find what is on line 179 in the file **Buckingham_Place**:
@@ -43,3 +43,8 @@ E.g to find what is on line 179 in the file **Buckingham_Place**:
 ```head -179 mystery/streets/Buckingham_Place | tail -1```
 
 E.g. Get the first 179 lines then get the last line of that.
+
+# Checking Multiple Membersips
+I used the following command for this (on each suspect):
+
+```grep 'Jacqui Maher' mystery/memberships/AAA mystery/memberships/Delta_SkyMiles mystery/memberships/Terminal_City_Library mystery/memberships/Museum_of_Bash_History | wc -l```
