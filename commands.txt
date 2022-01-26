@@ -1,3 +1,4 @@
 grep Annabel mystery/people | grep '	F' > possible_witnesses.txt
 head -40 mystery/streets/Hart_Place | tail -1 >> interviews.txt
 head -179 mystery/streets/Buckingham_Place | tail -1 >> interviews.txt
+grep -zo 'License Plate L337.*9\nMake: Honda\nColor: Blue\nOwner: .*\nHeight: 6.*\n.*\n' mystery/vehicles > suspects.txt
