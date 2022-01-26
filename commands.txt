@@ -1,0 +1,3 @@
+grep Annabel mystery/people | grep '	F' > possible_witnesses.txt
+head -40 mystery/streets/Hart_Place | tail -1 >> interviews.txt
+head -179 mystery/streets/Buckingham_Place | tail -1 >> interviews.txt
