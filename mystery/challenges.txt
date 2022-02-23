@@ -1,0 +1,1 @@
+Challenge answer 1 - You can view a file in a different directory without switching to it using the PATH. Absolute Paths contain the path of all files and folders starting from the root directory. Relative paths show the path of a file or folder relative to the current working directory.
