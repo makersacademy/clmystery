@@ -1,33 +1,3 @@
-Height: 5'7"
-Weight: 212 lbs
---
---
-License Plate K38L65K
-Make: Honda
---
---
-Make: Honda
-Color: Blue
-Owner: Dimitri Kim
-Height: 5'11"
-Weight: 166 lbs
---
---
---
---
---
-License Plate FF6QR6A
-Make: Honda
---
---
-Make: Honda
-Color: Blue
-Owner: Levan Ingram
-Height: 5'11"
-Weight: 176 lbs
---
---
---
 License Plate L337QE9
 Make: Honda
 Color: Blue
@@ -44,13 +14,6 @@ Height: 6'3"
 Weight: 183 lbs
 --
 --
-Weight: 183 lbs
---
---
-License Plate 68CVHT5
-Make: Honda
---
---
 License Plate KFQHMVH
 Make: Honda
 Color: Blue
@@ -59,21 +22,7 @@ Height: 6'3"
 Weight: 249 lbs
 --
 --
-Weight: 249 lbs
---
---
-License Plate 6GONOJY
-Make: Honda
---
---
-Height: 5'2"
-Weight: 184 lbs
---
---
 License Plate T46S1O8
-Make: Honda
---
---
 Make: Honda
 Color: Blue
 Owner: Pape Kantarci
@@ -81,46 +30,7 @@ Height: 6'1"
 Weight: 184 lbs
 --
 --
-Height: 5'4"
-Weight: 133 lbs
---
---
-License Plate XUC2VZ6
-Make: Honda
---
---
-Height: 5'5"
-Weight: 140 lbs
---
---
-License Plate 6GBK62G
-Make: Honda
---
---
-Height: 5'2"
-Weight: 234 lbs
---
---
-License Plate RWM24Z6
-Make: Honda
---
---
-Height: 5'3"
-Weight: 250 lbs
---
---
-License Plate L337369
-Make: Honda
---
---
-Height: 5'2"
-Weight: 244 lbs
---
---
 License Plate 63NCG0U
-Make: Honda
---
---
 Make: Honda
 Color: Blue
 Owner: Alberto Pedersen
@@ -136,35 +46,12 @@ Height: 6'2"
 Weight: 164 lbs
 --
 --
---
-Height: 5'4"
-Weight: 214 lbs
---
---
-License Plate PZ6Z32Z
-Make: Honda
---
---
 License Plate D81PNT0
 Make: Honda
 Color: Blue
 Owner: Marharyta Willmott
 Height: 6'0"
 Weight: 159 lbs
---
---
-Make: Honda
-Color: Blue
-Owner: Moses Sihame
-Height: 5'1"
-Weight: 196 lbs
---
---
---
---
---
-License Plate 28XRG6U
-Make: Honda
 --
 --
 License Plate L3375A9
