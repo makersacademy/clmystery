@@ -1,0 +1,59 @@
+1) CLUES: grep CLUE crimescene
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+2) POSSIBLE WITNESSES: grep Annabel people
+Annabel Sun     F       26      Hart Place, line 40
+Annabel Church  F       38      Buckingham Place, line 179
+
+
+4) STREETS: head -n 40 streets/Hart_Place | tail -n : tail -n 179 streets/Buckingham_Place | tail -n 1
+Annabel Sun Line 40         SEE INTERVIEW #47246024
+Annabel Church Line 179     SEE INTERVIEW #699607
+
+5) INTERVIEWS: cat interviews/interview-47246024 : cat interviews/interview-699607
+Annabel Sun- Ms. Sun has brown hair and is not from New Zealand.  Not the witness from the cafe.
+Annabel Church- Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+
+However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
+
+"You found two witness interview files. Take a look inside both of them and save any useful information into a new file called 'interview_info.txt'.
+
+You feel satisfied that you have covered your tracks - time to consolidate your files. Commit the file but DON'T PUSH IT YET!
+
+First checkout back into the 'main' branch, and merge the 'step-5' branch into 'main'."
+
+
+6) VEHICLES: L337 HONDA BLUE => grep -A 4 L337 vehicles | grep -A 3 Honda | grep -A 2 Blue
+
+SUSPECTS 1
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+When doing grep Erika Owens people = Erika is female
+
+***SUSPECT 2***
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+
+***SUSPECT 3***
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+
+SUSPECT 4
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+When doing grep Jacqui Maher people = Jacqui is female
+
+Only 2 suspects match the description in the clues.txt and fit the description provided by the witness so you can filter out the females & any men under 6ft tall to leave SUSPECT 2 + SUSPECT 3.
+
+7) GIT HISTORY: git log ; git diff commit1..commit2
+To see git history and to see the changes between commits.
+
+8) grep Jeremy AAA Delta_Skymiles 
+
+This command shows Jeremy Bowers to be a member of both of these clubs thus absolving Joe Germuska as he is only a member of AAA but not Delta Skymiles. Therefore, the murder has been narrowed down to JEREMY BOWERS.
