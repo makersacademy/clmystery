@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Reference: ./detective_handbook/step9.md
 
 Congratulations! You caught the murderer!
@@ -17,3 +18,10 @@ _______   _    _   ______          ______   _   _   _____
    | |    |  __  | |  __|          |  __|   | . ` | | |  | |
    | |    | |  | | | |____         | |____  | |\  | | |__| |
    |_|    |_|  |_| |______|        |______| |_| \_| |_____/
+=======
+Reference: sudo, chown, chmod
+
+Save the murderer's name to the file 'jail.txt'. Change permissions on the file so that everyone else but you are only allowed to read this file. We don't want anyone to swap this guy for someone innocent on his way to jail!
+
+Commit 'jail.txt' and push to Github.
+>>>>>>> step-5

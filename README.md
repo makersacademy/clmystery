@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The Command Line Murder
+=======
+The Command Line Murders
+>>>>>>> step-5
 ========================
 
     .OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
@@ -27,7 +31,11 @@ The Command Line Murder
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
+<<<<<<< HEAD
 Before you start, skim through the required materials in the Command Line and Version Control sections of the PreCourse on Teachable. Use it as a reference while working through the case.
+=======
+Before you start skim through the required materials in [Command Line chapter](https://github.com/makersacademy/pre_course/blob/master/command_line.md) and [Version Control Chapter](https://github.com/makersacademy/pre_course/blob/master/version_control.md). Use it as a reference while working through the case.
+>>>>>>> step-5
 
 Now with your Terminal at hand you're ready to start. A couple of ground rules first:
 
@@ -42,11 +50,21 @@ First you need to fork this [repository](https://help.github.com/articles/github
 
 ![Fork](./img/fork_button.jpg)
 
+<<<<<<< HEAD
 Next you need to download those files to your machine so that you can edit them. To do that you must clone your forked repository. See [this Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
 
 ## Step 2: Investigate
 
 Each step of your investigation will contain a reference to the **Detective Handbook** at the top. Each page of the Detective Handbook contains the description of the commands you will need to complete that particular step.
+=======
+Next you need to download those files to your machine so that you can edit them. To do that you need to clone your forked repository. See [this Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
+
+## Step 2: Investigate
+
+Each step of your investigation will contain a reference to the **Detective Handbook** at the top. Each page of the Detective Handbook contains the description of the commands you will need to complete that particular step. You can view them in the Terminal.
+
+Reference: ./detective_handbook/getting_started.md
+>>>>>>> step-5
 
 Open a Terminal, go to the location of the files (using the `cd` command), and start by reading the file 'step0'.
 

@@ -1,6 +1,10 @@
 This reference contains only the commands you will need to complete Step 1.
 
+<<<<<<< HEAD
 Take some time to read through the [Git walkthrough](./git.md) and make yourself familiar with the important Git concepts.
+=======
+Take some time to read through the [./git.md](Git walkthrough) and make yourself familiar with the important Git concepts.
+>>>>>>> step-5
 
 Use `man git` to see what Git creators have to say about it.
 
