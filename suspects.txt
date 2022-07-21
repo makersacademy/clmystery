@@ -1,33 +1,22 @@
-Owner: Bruno Oliver
-Height: 6'4"
-Weight: 238 lbs
-
-License Plate L337ZR9
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
 --
 --
-Owner: Dieter Schooling
+Color: Blue
+Owner: Joe Germuska
 Height: 6'2"
-Weight: 226 lbs
-
-License Plate L337GB9
+Weight: 164 lbs
 --
 --
-Owner: Rosie Fredricson
-Height: 6'0"
-Weight: 175 lbs
-
-License Plate L337X19
---
---
-Owner: Robyn Sigmond
-Height: 6'3"
-Weight: 137 lbs
-
-License Plate L337DV9
---
---
-Owner: Joseph Last
+Color: Blue
+Owner: Jeremy Bowers
 Height: 6'1"
-Weight: 224 lbs
-
-License Plate L337WR9
+Weight: 204 lbs
+--
+--
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
