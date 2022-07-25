@@ -4,12 +4,6 @@ Color: Blue
 Owner: Erika Owens
 Height: 6'5"
 --
-Color: Blue
-Owner: Aron Pilhofer
-Height: 5'3"
---
-License Plate L337369
---
 License Plate L337DV9
 Make: Honda
 Color: Blue
