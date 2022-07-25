@@ -21,13 +21,6 @@ Weight: 156 lbs
 --
 Make: Honda
 Color: Blue
-Owner: Heather Billings
-Height: 5'2"
-Weight: 244 lbs
---
---
-Make: Honda
-Color: Blue
 Owner: Jeremy Bowers
 --
 Height: 6'1"
