@@ -1,3 +1,5 @@
+Command line, git, github exercise from Makers. Completed, used Linux Mint, bash, git.
+
 The Command Line Murder
 ========================
 
