@@ -1,0 +1,2 @@
+Now it's time to collect the clues! The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their officer reports. Take a look at the 'mystery/crimescene' file. It's quite large so use the `less` command to view the contents of the file, one screen at a time.
+Once you've found all the clues it's time to save them to a separate file for future reference.
