@@ -1,0 +1,3 @@
+head -40 streets/Hart_Place | tail -1
+
+ sed -n '40p' streets/Hart_Place
