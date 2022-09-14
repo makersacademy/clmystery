@@ -1,0 +1,4 @@
+SEE INTERVIEW #47246024
+result of sed -n 40p ./mystery/streets/Hart_Place > step3_res.txt
+SEE INTERVIEW #699607
+result of sed -n 179p ./mystery/streets/Buchingham_Place >> step3_res.txt
