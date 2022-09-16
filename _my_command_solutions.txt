@@ -1,0 +1,118 @@
+Key Commands
+
+Step 1
+touch clues.txt
+grep CLUE /mystery/crimescene > clues.txt
+
+commit the files
+git add .
+git commit -m "step 1: add clues"
+git push
+
+Step 2
+Search for name Annabel and output to possible_witnesses.txt
+touch possible_witnesses.txt
+grep Annabel /mystery/people > possible_witnesses.txt
+
+commit the files
+git add .
+git commit -m "step 2: add possible witnesses"
+git push
+
+Step 3
+Just view the file
+less mystery/streets/Hart_Place
+
+Step 4
+See first 40 then last 1 send to interviews.txt
+head -n 40 mystery/streets/Hart_Place | tail -n -1 > interviews.txt
+
+Similar but make sure to append and not overwrite last result.
+head -n 179 mystery/streets/Buckingham_Place | tail -n 1 >> interviews.txt
+
+Result:
+SEE INTERVIEW #47246024
+SEE INTERVIEW #699607
+
+Commit the files
+git add .
+git commit -m "step 3&4: add interviews"
+git push
+
+Try to find them:
+ls mystery/interviews/*472
+>> no results
+ls mystery/interviews/*699
+>> no results
+
+Step 5
+Checkout branches (need -a as step-5 was only at origin)
+git branch -a
+
+Go to that branch:
+git checkout step-5
+
+Concat contents of both interviews into interview_info.txt
+cat mystery/interviews/*47246024 mystery/interviews/*699607 > interview_info.txt
+
+Commit the files
+git add .
+git commit -m "step 5: add missing interviews"
+
+git checkout main
+git merge step-5 (had issues here! Couldn't get default msg accepted in vi)
+git commit -m "merge step 5"
+
+git push
+
+Step 6
+Do multiple searches for suspect
+grep -A6 L337 mystery/vehicles | grep -A5 -B1 Honda | grep -A4 -B2 Blue | grep -A2 -B4 6\' > suspects.txt
+
+git add .
+git commit -m "step 6: add list of suspects"
+git push
+
+Make a pull request
+
+Step 7
+git rm interview_info.txt interviews.txt possible_witnesses.txt
+git add .
+git commit -m "step 7: remove unncessary files"
+
+check last two diffs
+git diff 1d3ffc6 9f46cd9
+
+Step 8
+killer has these memberships and is a male over 6' tall:
+
+
+cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Erika Owens" | wc -l
+-> 0 
+
+cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska" | wc -l
+-> 2
+
+cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers" | wc -l
+-> 4 
+
+cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher" | wc -l
+-> 4 
+
+so between Jeremy Bowers and Jacqui Maher
+Said they were male so assume it's Jeremy Bowers.
+
+echo "Jeremy Bowers" | $(command -v md5 || command -v md5sum) | grep -qif /dev/stdin encoded && echo CORRECT\! GREAT WORK, GUMSHOE. || echo SORRY, TRY AGAIN.
+
+-> CORRECT! GREAT WORK, GUMSHOE.
+
+Step 9
+Create file jail.txt and put answer in
+cat > jail.txt
+Jeremy Bowers
+esc
+
+change file permissions
+no need?! already have -rw-r--r--
+git add.
+git commit -m "step 9: submit jail.txt (already has -rw-r--r--?)"
