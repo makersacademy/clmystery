@@ -5,13 +5,6 @@ Owner: Erika Owens
 Height: 6'5"
 Weight: 220 lbs
 
-License Plate L337GB9
-Make: Toyota
-Color: Blue
-Owner: Matt Waite
-Height: 6'1"
-Weight: 190 lbs
-
 License Plate L337DV9
 Make: Honda
 Color: Blue
