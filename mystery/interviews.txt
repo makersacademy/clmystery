@@ -1,6 +1,0 @@
-#command used
-#sed -n 179p Buckingham_Place 
-
-SEE INTERVIEW #47246024
-
-SEE INTERVIEW #699607
