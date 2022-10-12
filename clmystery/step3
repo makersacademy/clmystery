@@ -1,0 +1,16 @@
+Reference: ./detective_handbook/step3.md
+
+You found 4 matches for the name 'Annabel'. Only 2 of them are women so you can rule out the remainder. Another piece of information you have is their address. There is a 'streets' subdirectory in the 'mystery' directory with a list of files named after streets.
+
+############ Challenge ###############
+
+See if you can find files matching street names for two remaining women named 'Annabel'. Use the combinations of commands from the Detective Handbook (section step3) to do this.
+
+######################################
+
+
+Take a look inside the files you've found. REMEMBER: among the information available in 'possible_witnesses.txt', you have references to line numbers. See if you can use that line number to discover something useful about the lady called 'Annabel'.
+
+If you get stuck check out hint2.
+
+Move on to step4.
