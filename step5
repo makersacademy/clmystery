@@ -1,5 +1,7 @@
 Reference: ./detective_handbook/step5.md
 
-You're concerned that the investigation has been compromised. You use an old detective trick to cover your tracks.
+You found two witness interview files. Take a look inside both of them and save any useful information into a new file called 'interview_info.txt'.
 
-To recover your 'step5' file, use the `git checkout` command to check out the 'step-5' branch, and try to view this file again.
+You feel satisfied that you have covered your tracks - time to consolidate your files. Commit the file but DON'T PUSH IT YET!
+
+First checkout back into the 'main' branch, and merge the 'step-5' branch into 'main'.
