@@ -1,0 +1,3 @@
+interview-628618:Fits the profile, except for the make of his car.  Should be considered a suspect if and only if there is evidence Boyer owns a second car.
+interview-862173:Does Waite own a second car?  If so, he may be a suspect.  Otherwise is not a suspect.
+interview-9620713:Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.
