@@ -1,0 +1,21 @@
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\clues.txt:crimescene:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\crimescene:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\AAA:Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\AAdvantage:Annabel Fuglsang
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\AAdvantage:Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Fitness_Galaxy:Oluwasegun Annabel
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Fitness_Galaxy:Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Museum_of_Bash_History:Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Museum_of_Bash_History:Oluwasegun Annabel
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\REI:Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Rotary_Club:Annabel Sun
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Rotary_Club:Annabel Fuglsang
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\memberships\Rotary_Club:Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\people:Annabel Sun	F	26	Hart Place, line 40
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\people:Annabel Church	F	38	Buckingham Place, line 179
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\people:Annabel Fuglsang	M	40	Haley Street, line 176
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\vehicles:Owner: Oluwasegun Annabel
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\vehicles:Owner: Annabel Church
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\vehicles:Owner: Annabel Sun
+C:\Users\csana\OneDrive\Desktop\AnnC\Makers_2023\clmystery_cs\mystery\vehicles:Owner: Annabel Fuglsang
