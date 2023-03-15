@@ -1,31 +1,23 @@
-License Plate 9R7TTGF
-Make: Volkswagen
-Color: Yellow
-Owner: Oluwasegun Annabel
-Height: 5'1"
-Weight: 240 lbs
-
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
 --
-License Plate L2E48EF
-Make: BMW
-Color: Orange
-Owner: Annabel Church
-Height: 5'5"
-Weight: 201 lbs
-
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
 --
-License Plate 0O27BTD
-Make: Fiat
-Color: Yellow
-Owner: Annabel Sun
-Height: 5'0"
-Weight: 232 lbs
-
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
 --
-License Plate 20VVU2P
-Make: Mazda
-Color: Pink
-Owner: Annabel Fuglsang
-Height: 5'11"
-Weight: 241 lbs
-
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
